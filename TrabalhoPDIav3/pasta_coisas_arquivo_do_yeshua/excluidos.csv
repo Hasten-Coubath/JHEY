@@ -1,0 +1,924 @@
+id,fonte,classe,paciente,idade,sexo,incidencia,achados,arquivo_original,mascara,motivo
+MC_MCUCXR_0004_0,montgomery,normal,MC_MCUCXR_0004_0,11.0,F,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0004_0.png,True,menor de 18 anos
+MC_MCUCXR_0017_0,montgomery,normal,MC_MCUCXR_0017_0,8.0,M,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0017_0.png,True,menor de 18 anos
+MC_MCUCXR_0026_0,montgomery,normal,MC_MCUCXR_0026_0,10.0,F,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0026_0.png,True,menor de 18 anos
+MC_MCUCXR_0041_0,montgomery,normal,MC_MCUCXR_0041_0,11.0,F,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0041_0.png,True,menor de 18 anos
+MC_MCUCXR_0042_0,montgomery,normal,MC_MCUCXR_0042_0,9.0,M,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0042_0.png,True,menor de 18 anos
+MC_MCUCXR_0046_0,montgomery,normal,MC_MCUCXR_0046_0,16.0,F,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0046_0.png,True,menor de 18 anos
+MC_MCUCXR_0060_0,montgomery,normal,MC_MCUCXR_0060_0,4.0,M,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0060_0.png,True,menor de 18 anos
+MC_MCUCXR_0061_0,montgomery,normal,MC_MCUCXR_0061_0,8.0,F,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0061_0.png,True,menor de 18 anos
+MC_MCUCXR_0075_0,montgomery,normal,MC_MCUCXR_0075_0,14.0,M,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0075_0.png,True,menor de 18 anos
+MC_MCUCXR_0077_0,montgomery,normal,MC_MCUCXR_0077_0,8.0,F,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0077_0.png,True,menor de 18 anos
+MC_MCUCXR_0080_0,montgomery,normal,MC_MCUCXR_0080_0,5.0,,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0080_0.png,True,menor de 18 anos
+MC_MCUCXR_0097_0,montgomery,normal,MC_MCUCXR_0097_0,16.0,F,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0097_0.png,True,menor de 18 anos
+MC_MCUCXR_0101_0,montgomery,normal,MC_MCUCXR_0101_0,17.0,F,frontal,normal,brutos/montgomery/CXR_png/MCUCXR_0101_0.png,True,menor de 18 anos
+MC_MCUCXR_0264_1,montgomery,tuberculose,MC_MCUCXR_0264_1,15.0,M,frontal,active TB; cavitary infiltrarte LUL; non-consolidated;,brutos/montgomery/CXR_png/MCUCXR_0264_1.png,True,menor de 18 anos
+MC_MCUCXR_0313_1,montgomery,tuberculose,MC_MCUCXR_0313_1,15.0,M,frontal,improvements. LUL cavity has closed.,brutos/montgomery/CXR_png/MCUCXR_0313_1.png,True,menor de 18 anos
+MC_MCUCXR_0316_1,montgomery,tuberculose,MC_MCUCXR_0316_1,16.0,M,frontal,improved LUL infiltrate and cavity. Active TB on therapy.,brutos/montgomery/CXR_png/MCUCXR_0316_1.png,True,menor de 18 anos
+MC_MCUCXR_0383_1,montgomery,tuberculose,MC_MCUCXR_0383_1,14.0,F,frontal,calcified granuloma LUL behind 4th rib anterior,brutos/montgomery/CXR_png/MCUCXR_0383_1.png,True,menor de 18 anos
+SZ_CHNCXR_0018_0,shenzhen,normal,SZ_CHNCXR_0018_0,,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0018_0.png,False,idade desconhecida
+SZ_CHNCXR_0074_0,shenzhen,normal,SZ_CHNCXR_0074_0,3.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0074_0.png,False,menor de 18 anos
+SZ_CHNCXR_0075_0,shenzhen,normal,SZ_CHNCXR_0075_0,1.0,F,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0075_0.png,False,menor de 18 anos
+SZ_CHNCXR_0076_0,shenzhen,normal,SZ_CHNCXR_0076_0,1.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0076_0.png,False,menor de 18 anos
+SZ_CHNCXR_0115_0,shenzhen,normal,SZ_CHNCXR_0115_0,0.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0115_0.png,False,menor de 18 anos
+SZ_CHNCXR_0155_0,shenzhen,normal,SZ_CHNCXR_0155_0,5.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0155_0.png,False,menor de 18 anos
+SZ_CHNCXR_0169_0,shenzhen,normal,SZ_CHNCXR_0169_0,2.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0169_0.png,False,menor de 18 anos
+SZ_CHNCXR_0178_0,shenzhen,normal,SZ_CHNCXR_0178_0,1.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0178_0.png,False,menor de 18 anos
+SZ_CHNCXR_0201_0,shenzhen,normal,SZ_CHNCXR_0201_0,0.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0201_0.png,False,menor de 18 anos
+SZ_CHNCXR_0202_0,shenzhen,normal,SZ_CHNCXR_0202_0,0.0,F,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0202_0.png,False,menor de 18 anos
+SZ_CHNCXR_0205_0,shenzhen,normal,SZ_CHNCXR_0205_0,1.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0205_0.png,False,menor de 18 anos
+SZ_CHNCXR_0206_0,shenzhen,normal,SZ_CHNCXR_0206_0,3.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0206_0.png,False,menor de 18 anos
+SZ_CHNCXR_0215_0,shenzhen,normal,SZ_CHNCXR_0215_0,4.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0215_0.png,False,menor de 18 anos
+SZ_CHNCXR_0228_0,shenzhen,normal,SZ_CHNCXR_0228_0,1.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0228_0.png,False,menor de 18 anos
+SZ_CHNCXR_0248_0,shenzhen,normal,SZ_CHNCXR_0248_0,2.0,F,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0248_0.png,False,menor de 18 anos
+SZ_CHNCXR_0256_0,shenzhen,normal,SZ_CHNCXR_0256_0,5.0,F,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0256_0.png,False,menor de 18 anos
+SZ_CHNCXR_0259_0,shenzhen,normal,SZ_CHNCXR_0259_0,7.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0259_0.png,False,menor de 18 anos
+SZ_CHNCXR_0265_0,shenzhen,normal,SZ_CHNCXR_0265_0,6.0,F,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0265_0.png,False,menor de 18 anos
+SZ_CHNCXR_0273_0,shenzhen,normal,SZ_CHNCXR_0273_0,8.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0273_0.png,False,menor de 18 anos
+SZ_CHNCXR_0278_0,shenzhen,normal,SZ_CHNCXR_0278_0,14.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0278_0.png,False,menor de 18 anos
+SZ_CHNCXR_0297_0,shenzhen,normal,SZ_CHNCXR_0297_0,1.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0297_0.png,False,menor de 18 anos
+SZ_CHNCXR_0299_0,shenzhen,normal,SZ_CHNCXR_0299_0,5.0,F,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0299_0.png,False,menor de 18 anos
+SZ_CHNCXR_0303_0,shenzhen,normal,SZ_CHNCXR_0303_0,3.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0303_0.png,False,menor de 18 anos
+SZ_CHNCXR_0306_0,shenzhen,normal,SZ_CHNCXR_0306_0,17.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0306_0.png,False,menor de 18 anos
+SZ_CHNCXR_0313_0,shenzhen,normal,SZ_CHNCXR_0313_0,6.0,M,frontal,normal,brutos/shenzhen/CXR_png/CHNCXR_0313_0.png,False,menor de 18 anos
+SZ_CHNCXR_0352_1,shenzhen,tuberculose,SZ_CHNCXR_0352_1,17.0,M,frontal,secondary PTB in the bilateral upper field,brutos/shenzhen/CXR_png/CHNCXR_0352_1.png,False,menor de 18 anos
+SZ_CHNCXR_0353_1,shenzhen,tuberculose,SZ_CHNCXR_0353_1,16.0,F,frontal,PTB in the left upper field,brutos/shenzhen/CXR_png/CHNCXR_0353_1.png,False,menor de 18 anos
+SZ_CHNCXR_0368_1,shenzhen,tuberculose,SZ_CHNCXR_0368_1,10.0,F,frontal,"left PTB,pleural thickening",brutos/shenzhen/CXR_png/CHNCXR_0368_1.png,False,menor de 18 anos
+SZ_CHNCXR_0444_1,shenzhen,tuberculose,SZ_CHNCXR_0444_1,15.0,M,frontal,left PTB,brutos/shenzhen/CXR_png/CHNCXR_0444_1.png,False,menor de 18 anos
+SZ_CHNCXR_0598_1,shenzhen,tuberculose,SZ_CHNCXR_0598_1,15.0,F,frontal,"bilateral PTB, right pleurisy",brutos/shenzhen/CXR_png/CHNCXR_0598_1.png,False,menor de 18 anos
+SZ_CHNCXR_0607_1,shenzhen,tuberculose,SZ_CHNCXR_0607_1,17.0,M,frontal,left PTB,brutos/shenzhen/CXR_png/CHNCXR_0607_1.png,False,menor de 18 anos
+SZ_CHNCXR_0630_1,shenzhen,tuberculose,SZ_CHNCXR_0630_1,2.0,M,frontal,secondary PTB  in the bilateral upper field,brutos/shenzhen/CXR_png/CHNCXR_0630_1.png,False,menor de 18 anos
+NIH_00006619_000,nih,normal,NIH_6619,19.0,F,PA,No Finding,brutos/nih/images/00006619_000.png,False,imagem ausente
+NIH_00006697_012,nih,pneumonia,NIH_6697,31.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00006697_012.png,False,imagem ausente
+NIH_00006697_014,nih,pneumonia,NIH_6697,32.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00006697_014.png,False,imagem ausente
+NIH_00006713_001,nih,pneumonia,NIH_6713,71.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00006713_001.png,False,imagem ausente
+NIH_00006717_007,nih,pneumonia,NIH_6717,58.0,F,PA,Pneumonia,brutos/nih/images/00006717_007.png,False,imagem ausente
+NIH_00006739_000,nih,normal,NIH_6739,51.0,M,PA,No Finding,brutos/nih/images/00006739_000.png,False,imagem ausente
+NIH_00006759_001,nih,pneumonia,NIH_6759,78.0,M,PA,Pneumonia,brutos/nih/images/00006759_001.png,False,imagem ausente
+NIH_00006783_005,nih,normal,NIH_6783,70.0,M,PA,No Finding,brutos/nih/images/00006783_005.png,False,imagem ausente
+NIH_00006822_000,nih,pneumonia,NIH_6822,50.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00006822_000.png,False,imagem ausente
+NIH_00006853_000,nih,normal,NIH_6853,39.0,F,PA,No Finding,brutos/nih/images/00006853_000.png,False,imagem ausente
+NIH_00006869_000,nih,pneumonia,NIH_6869,56.0,F,PA,Atelectasis|Cardiomegaly|Pneumonia,brutos/nih/images/00006869_000.png,False,imagem ausente
+NIH_00006875_006,nih,pneumonia,NIH_6875,63.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00006875_006.png,False,imagem ausente
+NIH_00006962_006,nih,normal,NIH_6962,31.0,M,PA,No Finding,brutos/nih/images/00006962_006.png,False,imagem ausente
+NIH_00006964_009,nih,normal,NIH_6964,51.0,M,PA,No Finding,brutos/nih/images/00006964_009.png,False,imagem ausente
+NIH_00006966_004,nih,pneumonia,NIH_6966,47.0,M,PA,Pneumonia,brutos/nih/images/00006966_004.png,False,imagem ausente
+NIH_00006981_004,nih,normal,NIH_6981,60.0,M,PA,No Finding,brutos/nih/images/00006981_004.png,False,imagem ausente
+NIH_00006985_002,nih,pneumonia,NIH_6985,50.0,M,PA,Pneumonia,brutos/nih/images/00006985_002.png,False,imagem ausente
+NIH_00006991_010,nih,pneumonia,NIH_6991,52.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00006991_010.png,False,imagem ausente
+NIH_00007060_006,nih,normal,NIH_7060,44.0,M,PA,No Finding,brutos/nih/images/00007060_006.png,False,imagem ausente
+NIH_00007093_014,nih,normal,NIH_7093,74.0,M,PA,No Finding,brutos/nih/images/00007093_014.png,False,imagem ausente
+NIH_00007109_020,nih,pneumonia,NIH_7109,38.0,F,PA,Fibrosis|Pneumonia,brutos/nih/images/00007109_020.png,False,imagem ausente
+NIH_00007109_027,nih,pneumonia,NIH_7109,39.0,F,PA,Fibrosis|Pneumonia,brutos/nih/images/00007109_027.png,False,imagem ausente
+NIH_00007159_001,nih,normal,NIH_7159,56.0,M,PA,No Finding,brutos/nih/images/00007159_001.png,False,imagem ausente
+NIH_00007185_024,nih,normal,NIH_7185,23.0,M,PA,No Finding,brutos/nih/images/00007185_024.png,False,imagem ausente
+NIH_00007191_001,nih,pneumonia,NIH_7191,28.0,M,PA,Pneumonia,brutos/nih/images/00007191_001.png,False,imagem ausente
+NIH_00007198_000,nih,normal,NIH_7198,41.0,F,PA,No Finding,brutos/nih/images/00007198_000.png,False,imagem ausente
+NIH_00007219_000,nih,pneumonia,NIH_7219,49.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00007219_000.png,False,imagem ausente
+NIH_00007340_013,nih,pneumonia,NIH_7340,64.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00007340_013.png,False,imagem ausente
+NIH_00007340_014,nih,pneumonia,NIH_7340,64.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00007340_014.png,False,imagem ausente
+NIH_00007408_000,nih,pneumonia,NIH_7408,48.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00007408_000.png,False,imagem ausente
+NIH_00007430_000,nih,normal,NIH_7430,25.0,M,PA,No Finding,brutos/nih/images/00007430_000.png,False,imagem ausente
+NIH_00007444_003,nih,pneumonia,NIH_7444,38.0,M,PA,Pneumonia,brutos/nih/images/00007444_003.png,False,imagem ausente
+NIH_00007466_000,nih,normal,NIH_7466,23.0,M,PA,No Finding,brutos/nih/images/00007466_000.png,False,imagem ausente
+NIH_00007483_000,nih,normal,NIH_7483,51.0,F,PA,No Finding,brutos/nih/images/00007483_000.png,False,imagem ausente
+NIH_00007514_011,nih,pneumonia,NIH_7514,62.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00007514_011.png,False,imagem ausente
+NIH_00007523_006,nih,normal,NIH_7523,24.0,F,PA,No Finding,brutos/nih/images/00007523_006.png,False,imagem ausente
+NIH_00007557_001,nih,pneumonia,NIH_7557,59.0,M,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00007557_001.png,False,imagem ausente
+NIH_00007567_001,nih,normal,NIH_7567,24.0,M,PA,No Finding,brutos/nih/images/00007567_001.png,False,imagem ausente
+NIH_00007576_050,nih,pneumonia,NIH_7576,37.0,M,PA,Effusion|Fibrosis|Infiltration|Pleural_Thickening|Pneumonia,brutos/nih/images/00007576_050.png,False,imagem ausente
+NIH_00007625_001,nih,normal,NIH_7625,24.0,M,PA,No Finding,brutos/nih/images/00007625_001.png,False,imagem ausente
+NIH_00007629_001,nih,pneumonia,NIH_7629,52.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00007629_001.png,False,imagem ausente
+NIH_00007649_000,nih,normal,NIH_7649,51.0,M,PA,No Finding,brutos/nih/images/00007649_000.png,False,imagem ausente
+NIH_00007650_000,nih,normal,NIH_7650,31.0,F,PA,No Finding,brutos/nih/images/00007650_000.png,False,imagem ausente
+NIH_00007660_007,nih,normal,NIH_7660,28.0,M,PA,No Finding,brutos/nih/images/00007660_007.png,False,imagem ausente
+NIH_00007699_003,nih,pneumonia,NIH_7699,39.0,M,PA,Pneumonia,brutos/nih/images/00007699_003.png,False,imagem ausente
+NIH_00007745_002,nih,normal,NIH_7745,29.0,M,PA,No Finding,brutos/nih/images/00007745_002.png,False,imagem ausente
+NIH_00007787_001,nih,pneumonia,NIH_7787,20.0,M,PA,Pneumonia,brutos/nih/images/00007787_001.png,False,imagem ausente
+NIH_00007809_000,nih,normal,NIH_7809,32.0,F,PA,No Finding,brutos/nih/images/00007809_000.png,False,imagem ausente
+NIH_00007841_000,nih,pneumonia,NIH_7841,68.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00007841_000.png,False,imagem ausente
+NIH_00007845_001,nih,pneumonia,NIH_7845,81.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00007845_001.png,False,imagem ausente
+NIH_00007857_000,nih,normal,NIH_7857,51.0,F,PA,No Finding,brutos/nih/images/00007857_000.png,False,imagem ausente
+NIH_00007898_000,nih,pneumonia,NIH_7898,68.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00007898_000.png,False,imagem ausente
+NIH_00007948_000,nih,normal,NIH_7948,32.0,M,PA,No Finding,brutos/nih/images/00007948_000.png,False,imagem ausente
+NIH_00007974_000,nih,normal,NIH_7974,66.0,M,PA,No Finding,brutos/nih/images/00007974_000.png,False,imagem ausente
+NIH_00007992_006,nih,pneumonia,NIH_7992,25.0,M,PA,Pneumonia,brutos/nih/images/00007992_006.png,False,imagem ausente
+NIH_00008006_000,nih,pneumonia,NIH_8006,79.0,F,PA,Cardiomegaly|Pneumonia,brutos/nih/images/00008006_000.png,False,imagem ausente
+NIH_00008008_046,nih,pneumonia,NIH_8008,23.0,F,PA,Effusion|Pneumonia,brutos/nih/images/00008008_046.png,False,imagem ausente
+NIH_00008020_001,nih,normal,NIH_8020,49.0,F,PA,No Finding,brutos/nih/images/00008020_001.png,False,imagem ausente
+NIH_00008023_000,nih,pneumonia,NIH_8023,28.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00008023_000.png,False,imagem ausente
+NIH_00008042_007,nih,pneumonia,NIH_8042,47.0,F,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00008042_007.png,False,imagem ausente
+NIH_00008043_002,nih,pneumonia,NIH_8043,59.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00008043_002.png,False,imagem ausente
+NIH_00008045_002,nih,pneumonia,NIH_8045,59.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00008045_002.png,False,imagem ausente
+NIH_00008046_015,nih,normal,NIH_8046,31.0,F,PA,No Finding,brutos/nih/images/00008046_015.png,False,imagem ausente
+NIH_00008085_000,nih,normal,NIH_8085,57.0,M,PA,No Finding,brutos/nih/images/00008085_000.png,False,imagem ausente
+NIH_00008154_000,nih,pneumonia,NIH_8154,52.0,F,PA,Atelectasis|Consolidation|Mass|Pneumonia,brutos/nih/images/00008154_000.png,False,imagem ausente
+NIH_00008208_000,nih,normal,NIH_8208,34.0,M,PA,No Finding,brutos/nih/images/00008208_000.png,False,imagem ausente
+NIH_00008219_000,nih,pneumonia,NIH_8219,35.0,F,PA,Atelectasis|Effusion|Pneumonia,brutos/nih/images/00008219_000.png,False,imagem ausente
+NIH_00008226_002,nih,normal,NIH_8226,45.0,M,PA,No Finding,brutos/nih/images/00008226_002.png,False,imagem ausente
+NIH_00008230_013,nih,pneumonia,NIH_8230,60.0,F,PA,Pleural_Thickening|Pneumonia,brutos/nih/images/00008230_013.png,False,imagem ausente
+NIH_00008343_001,nih,pneumonia,NIH_8343,43.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00008343_001.png,False,imagem ausente
+NIH_00008364_000,nih,normal,NIH_8364,79.0,F,PA,No Finding,brutos/nih/images/00008364_000.png,False,imagem ausente
+NIH_00008387_018,nih,pneumonia,NIH_8387,42.0,M,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00008387_018.png,False,imagem ausente
+NIH_00008397_012,nih,pneumonia,NIH_8397,53.0,M,PA,Atelectasis|Consolidation|Edema|Pneumonia|Pneumothorax,brutos/nih/images/00008397_012.png,False,imagem ausente
+NIH_00008397_016,nih,pneumonia,NIH_8397,53.0,M,PA,Pneumonia,brutos/nih/images/00008397_016.png,False,imagem ausente
+NIH_00008401_006,nih,pneumonia,NIH_8401,56.0,F,PA,Pneumonia,brutos/nih/images/00008401_006.png,False,imagem ausente
+NIH_00008537_000,nih,normal,NIH_8537,36.0,M,PA,No Finding,brutos/nih/images/00008537_000.png,False,imagem ausente
+NIH_00008581_001,nih,normal,NIH_8581,65.0,M,PA,No Finding,brutos/nih/images/00008581_001.png,False,imagem ausente
+NIH_00008628_000,nih,normal,NIH_8628,64.0,M,PA,No Finding,brutos/nih/images/00008628_000.png,False,imagem ausente
+NIH_00008647_000,nih,normal,NIH_8647,44.0,F,PA,No Finding,brutos/nih/images/00008647_000.png,False,imagem ausente
+NIH_00008654_000,nih,normal,NIH_8654,62.0,M,PA,No Finding,brutos/nih/images/00008654_000.png,False,imagem ausente
+NIH_00008687_000,nih,normal,NIH_8687,40.0,F,PA,No Finding,brutos/nih/images/00008687_000.png,False,imagem ausente
+NIH_00008697_007,nih,normal,NIH_8697,48.0,F,PA,No Finding,brutos/nih/images/00008697_007.png,False,imagem ausente
+NIH_00008707_000,nih,normal,NIH_8707,26.0,M,PA,No Finding,brutos/nih/images/00008707_000.png,False,imagem ausente
+NIH_00008715_000,nih,pneumonia,NIH_8715,70.0,M,PA,Nodule|Pneumonia,brutos/nih/images/00008715_000.png,False,imagem ausente
+NIH_00008727_009,nih,pneumonia,NIH_8727,54.0,M,PA,Pneumonia,brutos/nih/images/00008727_009.png,False,imagem ausente
+NIH_00008730_001,nih,normal,NIH_8730,21.0,F,PA,No Finding,brutos/nih/images/00008730_001.png,False,imagem ausente
+NIH_00008763_001,nih,pneumonia,NIH_8763,60.0,M,PA,Nodule|Pneumonia,brutos/nih/images/00008763_001.png,False,imagem ausente
+NIH_00008764_000,nih,normal,NIH_8764,60.0,F,PA,No Finding,brutos/nih/images/00008764_000.png,False,imagem ausente
+NIH_00008815_004,nih,normal,NIH_8815,36.0,F,PA,No Finding,brutos/nih/images/00008815_004.png,False,imagem ausente
+NIH_00008847_000,nih,normal,NIH_8847,59.0,M,PA,No Finding,brutos/nih/images/00008847_000.png,False,imagem ausente
+NIH_00008867_000,nih,normal,NIH_8867,47.0,F,PA,No Finding,brutos/nih/images/00008867_000.png,False,imagem ausente
+NIH_00008891_001,nih,normal,NIH_8891,29.0,F,PA,No Finding,brutos/nih/images/00008891_001.png,False,imagem ausente
+NIH_00009045_000,nih,normal,NIH_9045,39.0,F,PA,No Finding,brutos/nih/images/00009045_000.png,False,imagem ausente
+NIH_00009081_000,nih,pneumonia,NIH_9081,51.0,M,PA,Pneumonia,brutos/nih/images/00009081_000.png,False,imagem ausente
+NIH_00009105_003,nih,normal,NIH_9105,59.0,M,PA,No Finding,brutos/nih/images/00009105_003.png,False,imagem ausente
+NIH_00009209_000,nih,normal,NIH_9209,35.0,F,PA,No Finding,brutos/nih/images/00009209_000.png,False,imagem ausente
+NIH_00009245_001,nih,pneumonia,NIH_9245,20.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00009245_001.png,False,imagem ausente
+NIH_00009297_007,nih,normal,NIH_9297,65.0,M,PA,No Finding,brutos/nih/images/00009297_007.png,False,imagem ausente
+NIH_00009323_005,nih,pneumonia,NIH_9323,56.0,F,PA,Pneumonia,brutos/nih/images/00009323_005.png,False,imagem ausente
+NIH_00009328_000,nih,normal,NIH_9328,30.0,F,PA,No Finding,brutos/nih/images/00009328_000.png,False,imagem ausente
+NIH_00009409_003,nih,normal,NIH_9409,34.0,M,PA,No Finding,brutos/nih/images/00009409_003.png,False,imagem ausente
+NIH_00009437_005,nih,normal,NIH_9437,45.0,F,PA,No Finding,brutos/nih/images/00009437_005.png,False,imagem ausente
+NIH_00009465_001,nih,normal,NIH_9465,53.0,M,PA,No Finding,brutos/nih/images/00009465_001.png,False,imagem ausente
+NIH_00009471_000,nih,normal,NIH_9471,24.0,M,PA,No Finding,brutos/nih/images/00009471_000.png,False,imagem ausente
+NIH_00009507_001,nih,pneumonia,NIH_9507,59.0,M,PA,Consolidation|Hernia|Infiltration|Pneumonia,brutos/nih/images/00009507_001.png,False,imagem ausente
+NIH_00009507_002,nih,pneumonia,NIH_9507,59.0,M,PA,Effusion|Hernia|Pneumonia,brutos/nih/images/00009507_002.png,False,imagem ausente
+NIH_00009507_004,nih,pneumonia,NIH_9507,60.0,M,PA,Hernia|Infiltration|Pneumonia,brutos/nih/images/00009507_004.png,False,imagem ausente
+NIH_00009511_000,nih,normal,NIH_9511,32.0,F,PA,No Finding,brutos/nih/images/00009511_000.png,False,imagem ausente
+NIH_00009524_000,nih,pneumonia,NIH_9524,71.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00009524_000.png,False,imagem ausente
+NIH_00009534_002,nih,pneumonia,NIH_9534,42.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00009534_002.png,False,imagem ausente
+NIH_00009600_007,nih,pneumonia,NIH_9600,64.0,F,PA,Atelectasis|Infiltration|Pleural_Thickening|Pneumonia,brutos/nih/images/00009600_007.png,False,imagem ausente
+NIH_00009624_000,nih,normal,NIH_9624,64.0,M,PA,No Finding,brutos/nih/images/00009624_000.png,False,imagem ausente
+NIH_00009689_016,nih,normal,NIH_9689,55.0,M,PA,No Finding,brutos/nih/images/00009689_016.png,False,imagem ausente
+NIH_00009699_000,nih,normal,NIH_9699,52.0,M,PA,No Finding,brutos/nih/images/00009699_000.png,False,imagem ausente
+NIH_00009703_001,nih,normal,NIH_9703,66.0,M,PA,No Finding,brutos/nih/images/00009703_001.png,False,imagem ausente
+NIH_00009763_000,nih,normal,NIH_9763,41.0,M,PA,No Finding,brutos/nih/images/00009763_000.png,False,imagem ausente
+NIH_00009771_002,nih,normal,NIH_9771,26.0,F,PA,No Finding,brutos/nih/images/00009771_002.png,False,imagem ausente
+NIH_00009798_016,nih,pneumonia,NIH_9798,26.0,M,PA,Pneumonia,brutos/nih/images/00009798_016.png,False,imagem ausente
+NIH_00009813_006,nih,normal,NIH_9813,69.0,M,PA,No Finding,brutos/nih/images/00009813_006.png,False,imagem ausente
+NIH_00009842_006,nih,normal,NIH_9842,26.0,M,PA,No Finding,brutos/nih/images/00009842_006.png,False,imagem ausente
+NIH_00009858_001,nih,pneumonia,NIH_9858,48.0,F,PA,Effusion|Pneumonia,brutos/nih/images/00009858_001.png,False,imagem ausente
+NIH_00009873_002,nih,pneumonia,NIH_9873,37.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00009873_002.png,False,imagem ausente
+NIH_00009889_007,nih,pneumonia,NIH_9889,24.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00009889_007.png,False,imagem ausente
+NIH_00009903_000,nih,pneumonia,NIH_9903,74.0,M,PA,Pneumonia,brutos/nih/images/00009903_000.png,False,imagem ausente
+NIH_00009916_000,nih,normal,NIH_9916,52.0,F,PA,No Finding,brutos/nih/images/00009916_000.png,False,imagem ausente
+NIH_00009918_003,nih,pneumonia,NIH_9918,61.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00009918_003.png,False,imagem ausente
+NIH_00009920_005,nih,pneumonia,NIH_9920,56.0,F,PA,Atelectasis|Effusion|Pneumonia,brutos/nih/images/00009920_005.png,False,imagem ausente
+NIH_00009925_036,nih,pneumonia,NIH_9925,56.0,M,PA,Consolidation|Effusion|Infiltration|Mass|Nodule|Pleural_Thickening|Pneumonia,brutos/nih/images/00009925_036.png,False,imagem ausente
+NIH_00009925_037,nih,pneumonia,NIH_9925,56.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00009925_037.png,False,imagem ausente
+NIH_00009925_038,nih,pneumonia,NIH_9925,56.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00009925_038.png,False,imagem ausente
+NIH_00009925_040,nih,pneumonia,NIH_9925,56.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00009925_040.png,False,imagem ausente
+NIH_00009926_003,nih,normal,NIH_9926,57.0,M,PA,No Finding,brutos/nih/images/00009926_003.png,False,imagem ausente
+NIH_00009962_001,nih,normal,NIH_9962,52.0,M,PA,No Finding,brutos/nih/images/00009962_001.png,False,imagem ausente
+NIH_00009966_000,nih,pneumonia,NIH_9966,48.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00009966_000.png,False,imagem ausente
+NIH_00010057_000,nih,normal,NIH_10057,33.0,F,PA,No Finding,brutos/nih/images/00010057_000.png,False,imagem ausente
+NIH_00010066_007,nih,pneumonia,NIH_10066,25.0,M,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00010066_007.png,False,imagem ausente
+NIH_00010071_004,nih,pneumonia,NIH_10071,34.0,F,PA,Atelectasis|Emphysema|Pneumonia|Pneumothorax,brutos/nih/images/00010071_004.png,False,imagem ausente
+NIH_00010092_003,nih,pneumonia,NIH_10092,47.0,F,PA,Atelectasis|Nodule|Pneumonia,brutos/nih/images/00010092_003.png,False,imagem ausente
+NIH_00010092_035,nih,pneumonia,NIH_10092,49.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00010092_035.png,False,imagem ausente
+NIH_00010092_037,nih,pneumonia,NIH_10092,49.0,F,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00010092_037.png,False,imagem ausente
+NIH_00010093_000,nih,normal,NIH_10093,64.0,M,PA,No Finding,brutos/nih/images/00010093_000.png,False,imagem ausente
+NIH_00010120_029,nih,pneumonia,NIH_10120,54.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00010120_029.png,False,imagem ausente
+NIH_00010146_007,nih,normal,NIH_10146,26.0,F,PA,No Finding,brutos/nih/images/00010146_007.png,False,imagem ausente
+NIH_00010165_007,nih,pneumonia,NIH_10165,42.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00010165_007.png,False,imagem ausente
+NIH_00010248_000,nih,pneumonia,NIH_10248,39.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00010248_000.png,False,imagem ausente
+NIH_00010262_004,nih,normal,NIH_10262,41.0,M,PA,No Finding,brutos/nih/images/00010262_004.png,False,imagem ausente
+NIH_00010277_000,nih,pneumonia,NIH_10277,60.0,M,PA,Infiltration|Mass|Nodule|Pleural_Thickening|Effusion|Pneumonia,brutos/nih/images/00010277_000.png,False,imagem ausente
+NIH_00010308_011,nih,pneumonia,NIH_10308,38.0,F,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00010308_011.png,False,imagem ausente
+NIH_00010311_002,nih,pneumonia,NIH_10311,52.0,F,PA,Effusion|Pneumonia,brutos/nih/images/00010311_002.png,False,imagem ausente
+NIH_00010334_010,nih,pneumonia,NIH_10334,66.0,M,PA,Pneumonia,brutos/nih/images/00010334_010.png,False,imagem ausente
+NIH_00010345_000,nih,normal,NIH_10345,39.0,F,PA,No Finding,brutos/nih/images/00010345_000.png,False,imagem ausente
+NIH_00010362_002,nih,normal,NIH_10362,44.0,M,PA,No Finding,brutos/nih/images/00010362_002.png,False,imagem ausente
+NIH_00010369_004,nih,normal,NIH_10369,25.0,F,PA,No Finding,brutos/nih/images/00010369_004.png,False,imagem ausente
+NIH_00010375_000,nih,pneumonia,NIH_10375,38.0,M,PA,Pneumonia,brutos/nih/images/00010375_000.png,False,imagem ausente
+NIH_00010375_001,nih,pneumonia,NIH_10375,38.0,M,PA,Pneumonia,brutos/nih/images/00010375_001.png,False,imagem ausente
+NIH_00010399_001,nih,pneumonia,NIH_10399,56.0,F,PA,Cardiomegaly|Consolidation|Pneumonia,brutos/nih/images/00010399_001.png,False,imagem ausente
+NIH_00010471_001,nih,pneumonia,NIH_10471,77.0,F,PA,Cardiomegaly|Effusion|Pneumonia,brutos/nih/images/00010471_001.png,False,imagem ausente
+NIH_00010530_028,nih,pneumonia,NIH_10530,38.0,F,PA,Edema|Infiltration|Pneumonia,brutos/nih/images/00010530_028.png,False,imagem ausente
+NIH_00010531_058,nih,pneumonia,NIH_10531,24.0,F,PA,Effusion|Infiltration|Pleural_Thickening|Pneumonia,brutos/nih/images/00010531_058.png,False,imagem ausente
+NIH_00010531_073,nih,pneumonia,NIH_10531,26.0,F,PA,Pneumonia,brutos/nih/images/00010531_073.png,False,imagem ausente
+NIH_00010531_074,nih,pneumonia,NIH_10531,26.0,F,PA,Consolidation|Pneumonia,brutos/nih/images/00010531_074.png,False,imagem ausente
+NIH_00010531_075,nih,pneumonia,NIH_10531,26.0,F,PA,Consolidation|Pneumonia,brutos/nih/images/00010531_075.png,False,imagem ausente
+NIH_00010548_010,nih,normal,NIH_10548,66.0,F,PA,No Finding,brutos/nih/images/00010548_010.png,False,imagem ausente
+NIH_00010552_005,nih,pneumonia,NIH_10552,39.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00010552_005.png,False,imagem ausente
+NIH_00010569_010,nih,normal,NIH_10569,22.0,M,PA,No Finding,brutos/nih/images/00010569_010.png,False,imagem ausente
+NIH_00010585_008,nih,normal,NIH_10585,65.0,M,PA,No Finding,brutos/nih/images/00010585_008.png,False,imagem ausente
+NIH_00010586_000,nih,pneumonia,NIH_10586,24.0,M,PA,Pneumonia,brutos/nih/images/00010586_000.png,False,imagem ausente
+NIH_00010604_005,nih,pneumonia,NIH_10604,60.0,F,PA,Edema|Pneumonia,brutos/nih/images/00010604_005.png,False,imagem ausente
+NIH_00010610_003,nih,pneumonia,NIH_10610,27.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00010610_003.png,False,imagem ausente
+NIH_00010628_000,nih,normal,NIH_10628,43.0,M,PA,No Finding,brutos/nih/images/00010628_000.png,False,imagem ausente
+NIH_00010637_000,nih,normal,NIH_10637,37.0,F,PA,No Finding,brutos/nih/images/00010637_000.png,False,imagem ausente
+NIH_00010652_000,nih,pneumonia,NIH_10652,43.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00010652_000.png,False,imagem ausente
+NIH_00010684_000,nih,normal,NIH_10684,58.0,F,PA,No Finding,brutos/nih/images/00010684_000.png,False,imagem ausente
+NIH_00010693_012,nih,pneumonia,NIH_10693,20.0,M,PA,Pneumonia,brutos/nih/images/00010693_012.png,False,imagem ausente
+NIH_00010706_000,nih,pneumonia,NIH_10706,51.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00010706_000.png,False,imagem ausente
+NIH_00010763_004,nih,normal,NIH_10763,66.0,M,PA,No Finding,brutos/nih/images/00010763_004.png,False,imagem ausente
+NIH_00010790_005,nih,pneumonia,NIH_10790,55.0,F,PA,Edema|Infiltration|Pneumonia,brutos/nih/images/00010790_005.png,False,imagem ausente
+NIH_00010816_001,nih,normal,NIH_10816,49.0,F,PA,No Finding,brutos/nih/images/00010816_001.png,False,imagem ausente
+NIH_00010887_001,nih,normal,NIH_10887,61.0,F,PA,No Finding,brutos/nih/images/00010887_001.png,False,imagem ausente
+NIH_00010920_005,nih,normal,NIH_10920,30.0,F,PA,No Finding,brutos/nih/images/00010920_005.png,False,imagem ausente
+NIH_00010924_003,nih,pneumonia,NIH_10924,62.0,F,PA,Atelectasis|Infiltration|Mass|Pneumonia,brutos/nih/images/00010924_003.png,False,imagem ausente
+NIH_00010929_000,nih,normal,NIH_10929,73.0,M,PA,No Finding,brutos/nih/images/00010929_000.png,False,imagem ausente
+NIH_00010943_000,nih,pneumonia,NIH_10943,37.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00010943_000.png,False,imagem ausente
+NIH_00010959_005,nih,normal,NIH_10959,39.0,M,PA,No Finding,brutos/nih/images/00010959_005.png,False,imagem ausente
+NIH_00010978_000,nih,normal,NIH_10978,44.0,F,PA,No Finding,brutos/nih/images/00010978_000.png,False,imagem ausente
+NIH_00011020_000,nih,pneumonia,NIH_11020,63.0,F,PA,Pleural_Thickening|Pneumonia,brutos/nih/images/00011020_000.png,False,imagem ausente
+NIH_00011097_002,nih,pneumonia,NIH_11097,42.0,M,PA,Edema|Pneumonia,brutos/nih/images/00011097_002.png,False,imagem ausente
+NIH_00011104_004,nih,pneumonia,NIH_11104,60.0,M,PA,Infiltration|Nodule|Pneumonia,brutos/nih/images/00011104_004.png,False,imagem ausente
+NIH_00011108_000,nih,normal,NIH_11108,60.0,F,PA,No Finding,brutos/nih/images/00011108_000.png,False,imagem ausente
+NIH_00011136_002,nih,pneumonia,NIH_11136,31.0,M,PA,Consolidation|Effusion|Pneumonia,brutos/nih/images/00011136_002.png,False,imagem ausente
+NIH_00011153_000,nih,normal,NIH_11153,54.0,M,PA,No Finding,brutos/nih/images/00011153_000.png,False,imagem ausente
+NIH_00011178_007,nih,normal,NIH_11178,60.0,M,PA,No Finding,brutos/nih/images/00011178_007.png,False,imagem ausente
+NIH_00011188_002,nih,pneumonia,NIH_11188,53.0,F,PA,Pneumonia,brutos/nih/images/00011188_002.png,False,imagem ausente
+NIH_00011193_002,nih,normal,NIH_11193,55.0,F,PA,No Finding,brutos/nih/images/00011193_002.png,False,imagem ausente
+NIH_00011204_000,nih,normal,NIH_11204,44.0,M,PA,No Finding,brutos/nih/images/00011204_000.png,False,imagem ausente
+NIH_00011229_000,nih,normal,NIH_11229,56.0,F,PA,No Finding,brutos/nih/images/00011229_000.png,False,imagem ausente
+NIH_00011281_000,nih,normal,NIH_11281,50.0,M,PA,No Finding,brutos/nih/images/00011281_000.png,False,imagem ausente
+NIH_00011284_000,nih,normal,NIH_11284,32.0,M,PA,No Finding,brutos/nih/images/00011284_000.png,False,imagem ausente
+NIH_00011328_007,nih,pneumonia,NIH_11328,39.0,M,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00011328_007.png,False,imagem ausente
+NIH_00011355_018,nih,normal,NIH_11355,34.0,M,PA,No Finding,brutos/nih/images/00011355_018.png,False,imagem ausente
+NIH_00011363_000,nih,normal,NIH_11363,33.0,F,PA,No Finding,brutos/nih/images/00011363_000.png,False,imagem ausente
+NIH_00011388_000,nih,normal,NIH_11388,45.0,F,PA,No Finding,brutos/nih/images/00011388_000.png,False,imagem ausente
+NIH_00011427_001,nih,normal,NIH_11427,56.0,F,PA,No Finding,brutos/nih/images/00011427_001.png,False,imagem ausente
+NIH_00011432_000,nih,normal,NIH_11432,36.0,M,PA,No Finding,brutos/nih/images/00011432_000.png,False,imagem ausente
+NIH_00011472_001,nih,pneumonia,NIH_11472,23.0,M,PA,Pneumonia,brutos/nih/images/00011472_001.png,False,imagem ausente
+NIH_00011490_002,nih,normal,NIH_11490,41.0,M,PA,No Finding,brutos/nih/images/00011490_002.png,False,imagem ausente
+NIH_00011538_001,nih,normal,NIH_11538,18.0,F,PA,No Finding,brutos/nih/images/00011538_001.png,False,imagem ausente
+NIH_00011544_010,nih,pneumonia,NIH_11544,49.0,M,PA,Infiltration|Pneumonia|Pneumothorax,brutos/nih/images/00011544_010.png,False,imagem ausente
+NIH_00011545_000,nih,pneumonia,NIH_11545,62.0,F,PA,Atelectasis|Emphysema|Pneumonia,brutos/nih/images/00011545_000.png,False,imagem ausente
+NIH_00011564_008,nih,pneumonia,NIH_11564,56.0,F,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00011564_008.png,False,imagem ausente
+NIH_00011577_000,nih,normal,NIH_11577,42.0,M,PA,No Finding,brutos/nih/images/00011577_000.png,False,imagem ausente
+NIH_00011583_000,nih,pneumonia,NIH_11583,67.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00011583_000.png,False,imagem ausente
+NIH_00011585_000,nih,pneumonia,NIH_11585,58.0,F,PA,Effusion|Infiltration|Mass|Nodule|Pneumonia,brutos/nih/images/00011585_000.png,False,imagem ausente
+NIH_00011592_001,nih,pneumonia,NIH_11592,58.0,M,PA,Pleural_Thickening|Pneumonia,brutos/nih/images/00011592_001.png,False,imagem ausente
+NIH_00011598_043,nih,pneumonia,NIH_11598,76.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00011598_043.png,False,imagem ausente
+NIH_00011605_000,nih,normal,NIH_11605,47.0,F,PA,No Finding,brutos/nih/images/00011605_000.png,False,imagem ausente
+NIH_00011625_000,nih,normal,NIH_11625,35.0,F,PA,No Finding,brutos/nih/images/00011625_000.png,False,imagem ausente
+NIH_00011632_012,nih,pneumonia,NIH_11632,56.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00011632_012.png,False,imagem ausente
+NIH_00011638_000,nih,pneumonia,NIH_11638,66.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00011638_000.png,False,imagem ausente
+NIH_00011639_000,nih,normal,NIH_11639,49.0,M,PA,No Finding,brutos/nih/images/00011639_000.png,False,imagem ausente
+NIH_00011704_000,nih,pneumonia,NIH_11704,24.0,F,PA,Effusion|Pneumonia,brutos/nih/images/00011704_000.png,False,imagem ausente
+NIH_00011709_000,nih,pneumonia,NIH_11709,62.0,M,PA,Mass|Nodule|Pneumonia,brutos/nih/images/00011709_000.png,False,imagem ausente
+NIH_00011723_021,nih,pneumonia,NIH_11723,65.0,M,PA,Mass|Pneumonia,brutos/nih/images/00011723_021.png,False,imagem ausente
+NIH_00011758_000,nih,normal,NIH_11758,54.0,F,PA,No Finding,brutos/nih/images/00011758_000.png,False,imagem ausente
+NIH_00011823_001,nih,normal,NIH_11823,51.0,F,PA,No Finding,brutos/nih/images/00011823_001.png,False,imagem ausente
+NIH_00011827_010,nih,pneumonia,NIH_11827,30.0,F,PA,Atelectasis|Consolidation|Pneumonia,brutos/nih/images/00011827_010.png,False,imagem ausente
+NIH_00011831_008,nih,pneumonia,NIH_11831,56.0,F,PA,Emphysema|Pneumothorax|Pneumonia,brutos/nih/images/00011831_008.png,False,imagem ausente
+NIH_00011831_015,nih,pneumonia,NIH_11831,56.0,F,PA,Edema|Emphysema|Infiltration|Mass|Pneumonia,brutos/nih/images/00011831_015.png,False,imagem ausente
+NIH_00011921_000,nih,normal,NIH_11921,44.0,F,PA,No Finding,brutos/nih/images/00011921_000.png,False,imagem ausente
+NIH_00011928_001,nih,normal,NIH_11928,28.0,F,PA,No Finding,brutos/nih/images/00011928_001.png,False,imagem ausente
+NIH_00011945_011,nih,pneumonia,NIH_11945,33.0,F,PA,Consolidation|Pneumonia,brutos/nih/images/00011945_011.png,False,imagem ausente
+NIH_00011960_006,nih,pneumonia,NIH_11960,67.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00011960_006.png,False,imagem ausente
+NIH_00011973_015,nih,pneumonia,NIH_11973,62.0,M,PA,Pneumonia,brutos/nih/images/00011973_015.png,False,imagem ausente
+NIH_00012012_007,nih,pneumonia,NIH_12012,37.0,F,PA,Effusion|Pneumonia|Pneumothorax,brutos/nih/images/00012012_007.png,False,imagem ausente
+NIH_00012020_009,nih,normal,NIH_12020,71.0,M,PA,No Finding,brutos/nih/images/00012020_009.png,False,imagem ausente
+NIH_00012092_004,nih,normal,NIH_12092,41.0,F,PA,No Finding,brutos/nih/images/00012092_004.png,False,imagem ausente
+NIH_00012094_033,nih,pneumonia,NIH_12094,63.0,F,PA,Pneumonia|Pneumothorax,brutos/nih/images/00012094_033.png,False,imagem ausente
+NIH_00012107_000,nih,normal,NIH_12107,41.0,M,PA,No Finding,brutos/nih/images/00012107_000.png,False,imagem ausente
+NIH_00012129_000,nih,normal,NIH_12129,19.0,M,PA,No Finding,brutos/nih/images/00012129_000.png,False,imagem ausente
+NIH_00012149_004,nih,normal,NIH_12149,40.0,M,PA,No Finding,brutos/nih/images/00012149_004.png,False,imagem ausente
+NIH_00012158_021,nih,pneumonia,NIH_12158,45.0,F,PA,Pneumonia,brutos/nih/images/00012158_021.png,False,imagem ausente
+NIH_00012158_025,nih,pneumonia,NIH_12158,47.0,F,PA,Pneumonia,brutos/nih/images/00012158_025.png,False,imagem ausente
+NIH_00012193_002,nih,normal,NIH_12193,53.0,M,PA,No Finding,brutos/nih/images/00012193_002.png,False,imagem ausente
+NIH_00012211_000,nih,pneumonia,NIH_12211,55.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00012211_000.png,False,imagem ausente
+NIH_00012245_003,nih,pneumonia,NIH_12245,69.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00012245_003.png,False,imagem ausente
+NIH_00012263_006,nih,pneumonia,NIH_12263,34.0,F,PA,Effusion|Mass|Pneumonia,brutos/nih/images/00012263_006.png,False,imagem ausente
+NIH_00012297_004,nih,pneumonia,NIH_12297,47.0,F,PA,Pneumonia,brutos/nih/images/00012297_004.png,False,imagem ausente
+NIH_00012298_005,nih,pneumonia,NIH_12298,69.0,M,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00012298_005.png,False,imagem ausente
+NIH_00012313_000,nih,normal,NIH_12313,32.0,F,PA,No Finding,brutos/nih/images/00012313_000.png,False,imagem ausente
+NIH_00012371_000,nih,normal,NIH_12371,57.0,M,PA,No Finding,brutos/nih/images/00012371_000.png,False,imagem ausente
+NIH_00012392_009,nih,normal,NIH_12392,49.0,M,PA,No Finding,brutos/nih/images/00012392_009.png,False,imagem ausente
+NIH_00012402_001,nih,normal,NIH_12402,60.0,F,PA,No Finding,brutos/nih/images/00012402_001.png,False,imagem ausente
+NIH_00012425_000,nih,normal,NIH_12425,47.0,M,PA,No Finding,brutos/nih/images/00012425_000.png,False,imagem ausente
+NIH_00012458_001,nih,normal,NIH_12458,43.0,M,PA,No Finding,brutos/nih/images/00012458_001.png,False,imagem ausente
+NIH_00012487_016,nih,normal,NIH_12487,35.0,M,PA,No Finding,brutos/nih/images/00012487_016.png,False,imagem ausente
+NIH_00012508_000,nih,normal,NIH_12508,33.0,M,PA,No Finding,brutos/nih/images/00012508_000.png,False,imagem ausente
+NIH_00012556_000,nih,normal,NIH_12556,81.0,M,PA,No Finding,brutos/nih/images/00012556_000.png,False,imagem ausente
+NIH_00012573_010,nih,normal,NIH_12573,18.0,F,PA,No Finding,brutos/nih/images/00012573_010.png,False,imagem ausente
+NIH_00012576_004,nih,pneumonia,NIH_12576,59.0,M,PA,Effusion|Pneumothorax|Pneumonia,brutos/nih/images/00012576_004.png,False,imagem ausente
+NIH_00012585_013,nih,normal,NIH_12585,53.0,M,PA,No Finding,brutos/nih/images/00012585_013.png,False,imagem ausente
+NIH_00012610_005,nih,normal,NIH_12610,28.0,F,PA,No Finding,brutos/nih/images/00012610_005.png,False,imagem ausente
+NIH_00012616_008,nih,normal,NIH_12616,73.0,M,PA,No Finding,brutos/nih/images/00012616_008.png,False,imagem ausente
+NIH_00012622_012,nih,pneumonia,NIH_12622,31.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00012622_012.png,False,imagem ausente
+NIH_00012629_000,nih,normal,NIH_12629,53.0,M,PA,No Finding,brutos/nih/images/00012629_000.png,False,imagem ausente
+NIH_00012659_035,nih,normal,NIH_12659,59.0,F,PA,No Finding,brutos/nih/images/00012659_035.png,False,imagem ausente
+NIH_00012733_000,nih,pneumonia,NIH_12733,73.0,M,PA,Pneumonia,brutos/nih/images/00012733_000.png,False,imagem ausente
+NIH_00012741_009,nih,normal,NIH_12741,42.0,M,PA,No Finding,brutos/nih/images/00012741_009.png,False,imagem ausente
+NIH_00012750_002,nih,pneumonia,NIH_12750,66.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00012750_002.png,False,imagem ausente
+NIH_00012761_007,nih,pneumonia,NIH_12761,54.0,M,PA,Pneumonia,brutos/nih/images/00012761_007.png,False,imagem ausente
+NIH_00012782_002,nih,pneumonia,NIH_12782,26.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00012782_002.png,False,imagem ausente
+NIH_00012848_011,nih,pneumonia,NIH_12848,43.0,M,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00012848_011.png,False,imagem ausente
+NIH_00012942_008,nih,pneumonia,NIH_12942,37.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00012942_008.png,False,imagem ausente
+NIH_00012997_001,nih,normal,NIH_12997,57.0,M,PA,No Finding,brutos/nih/images/00012997_001.png,False,imagem ausente
+NIH_00013031_024,nih,pneumonia,NIH_13031,54.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00013031_024.png,False,imagem ausente
+NIH_00013045_003,nih,pneumonia,NIH_13045,48.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00013045_003.png,False,imagem ausente
+NIH_00013052_011,nih,pneumonia,NIH_13052,41.0,F,PA,Pneumonia|Pneumothorax,brutos/nih/images/00013052_011.png,False,imagem ausente
+NIH_00013070_000,nih,pneumonia,NIH_13070,21.0,M,PA,Pneumonia,brutos/nih/images/00013070_000.png,False,imagem ausente
+NIH_00013078_015,nih,pneumonia,NIH_13078,42.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00013078_015.png,False,imagem ausente
+NIH_00013111_077,nih,pneumonia,NIH_13111,21.0,M,PA,Atelectasis|Emphysema|Pneumonia,brutos/nih/images/00013111_077.png,False,imagem ausente
+NIH_00013157_000,nih,normal,NIH_13157,57.0,M,PA,No Finding,brutos/nih/images/00013157_000.png,False,imagem ausente
+NIH_00013192_003,nih,pneumonia,NIH_13192,59.0,F,PA,Atelectasis|Nodule|Pneumonia,brutos/nih/images/00013192_003.png,False,imagem ausente
+NIH_00013194_010,nih,normal,NIH_13194,52.0,M,PA,No Finding,brutos/nih/images/00013194_010.png,False,imagem ausente
+NIH_00013236_005,nih,normal,NIH_13236,28.0,F,PA,No Finding,brutos/nih/images/00013236_005.png,False,imagem ausente
+NIH_00013272_005,nih,pneumonia,NIH_13272,51.0,M,PA,Pneumonia,brutos/nih/images/00013272_005.png,False,imagem ausente
+NIH_00013304_002,nih,pneumonia,NIH_13304,44.0,F,PA,Pneumonia,brutos/nih/images/00013304_002.png,False,imagem ausente
+NIH_00013312_009,nih,normal,NIH_13312,50.0,M,PA,No Finding,brutos/nih/images/00013312_009.png,False,imagem ausente
+NIH_00013376_000,nih,pneumonia,NIH_13376,36.0,M,PA,Nodule|Pneumonia,brutos/nih/images/00013376_000.png,False,imagem ausente
+NIH_00013376_001,nih,pneumonia,NIH_13376,36.0,M,PA,Nodule|Pneumonia,brutos/nih/images/00013376_001.png,False,imagem ausente
+NIH_00013391_005,nih,pneumonia,NIH_13391,45.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00013391_005.png,False,imagem ausente
+NIH_00013447_012,nih,pneumonia,NIH_13447,45.0,F,PA,Pneumonia,brutos/nih/images/00013447_012.png,False,imagem ausente
+NIH_00013503_000,nih,normal,NIH_13503,41.0,F,PA,No Finding,brutos/nih/images/00013503_000.png,False,imagem ausente
+NIH_00013532_000,nih,normal,NIH_13532,70.0,M,PA,No Finding,brutos/nih/images/00013532_000.png,False,imagem ausente
+NIH_00013535_000,nih,normal,NIH_13535,20.0,M,PA,No Finding,brutos/nih/images/00013535_000.png,False,imagem ausente
+NIH_00013569_000,nih,normal,NIH_13569,50.0,M,PA,No Finding,brutos/nih/images/00013569_000.png,False,imagem ausente
+NIH_00013591_005,nih,pneumonia,NIH_13591,53.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00013591_005.png,False,imagem ausente
+NIH_00013611_001,nih,pneumonia,NIH_13611,33.0,M,PA,Pneumonia,brutos/nih/images/00013611_001.png,False,imagem ausente
+NIH_00013662_003,nih,pneumonia,NIH_13662,20.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00013662_003.png,False,imagem ausente
+NIH_00013662_005,nih,pneumonia,NIH_13662,20.0,M,PA,Pneumonia,brutos/nih/images/00013662_005.png,False,imagem ausente
+NIH_00013685_004,nih,pneumonia,NIH_13685,49.0,F,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00013685_004.png,False,imagem ausente
+NIH_00013712_001,nih,normal,NIH_13712,18.0,F,PA,No Finding,brutos/nih/images/00013712_001.png,False,imagem ausente
+NIH_00013750_011,nih,normal,NIH_13750,56.0,M,PA,No Finding,brutos/nih/images/00013750_011.png,False,imagem ausente
+NIH_00013765_002,nih,normal,NIH_13765,36.0,F,PA,No Finding,brutos/nih/images/00013765_002.png,False,imagem ausente
+NIH_00013779_000,nih,pneumonia,NIH_13779,66.0,M,PA,Pneumonia,brutos/nih/images/00013779_000.png,False,imagem ausente
+NIH_00013818_000,nih,pneumonia,NIH_13818,35.0,F,PA,Pneumonia,brutos/nih/images/00013818_000.png,False,imagem ausente
+NIH_00013938_001,nih,normal,NIH_13938,32.0,F,PA,No Finding,brutos/nih/images/00013938_001.png,False,imagem ausente
+NIH_00013952_000,nih,pneumonia,NIH_13952,59.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00013952_000.png,False,imagem ausente
+NIH_00013965_000,nih,pneumonia,NIH_13965,38.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00013965_000.png,False,imagem ausente
+NIH_00013970_009,nih,normal,NIH_13970,21.0,F,PA,No Finding,brutos/nih/images/00013970_009.png,False,imagem ausente
+NIH_00013974_001,nih,normal,NIH_13974,49.0,M,PA,No Finding,brutos/nih/images/00013974_001.png,False,imagem ausente
+NIH_00013993_004,nih,pneumonia,NIH_13993,41.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00013993_004.png,False,imagem ausente
+NIH_00013993_124,nih,pneumonia,NIH_13993,44.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00013993_124.png,False,imagem ausente
+NIH_00013997_000,nih,pneumonia,NIH_13997,28.0,M,PA,Pneumonia,brutos/nih/images/00013997_000.png,False,imagem ausente
+NIH_00014004_008,nih,pneumonia,NIH_14004,58.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00014004_008.png,False,imagem ausente
+NIH_00014015_016,nih,pneumonia,NIH_14015,31.0,F,PA,Edema|Effusion|Infiltration|Pneumonia,brutos/nih/images/00014015_016.png,False,imagem ausente
+NIH_00014029_001,nih,normal,NIH_14029,25.0,F,PA,No Finding,brutos/nih/images/00014029_001.png,False,imagem ausente
+NIH_00014058_006,nih,pneumonia,NIH_14058,47.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00014058_006.png,False,imagem ausente
+NIH_00014074_002,nih,pneumonia,NIH_14074,72.0,F,PA,Atelectasis|Effusion|Pneumonia|Pneumothorax,brutos/nih/images/00014074_002.png,False,imagem ausente
+NIH_00014137_001,nih,normal,NIH_14137,73.0,M,PA,No Finding,brutos/nih/images/00014137_001.png,False,imagem ausente
+NIH_00014177_007,nih,pneumonia,NIH_14177,38.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00014177_007.png,False,imagem ausente
+NIH_00014182_001,nih,normal,NIH_14182,55.0,F,PA,No Finding,brutos/nih/images/00014182_001.png,False,imagem ausente
+NIH_00014183_000,nih,pneumonia,NIH_14183,31.0,M,PA,Effusion|Fibrosis|Pneumonia,brutos/nih/images/00014183_000.png,False,imagem ausente
+NIH_00014183_002,nih,pneumonia,NIH_14183,29.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00014183_002.png,False,imagem ausente
+NIH_00014197_000,nih,pneumonia,NIH_14197,57.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00014197_000.png,False,imagem ausente
+NIH_00014197_010,nih,pneumonia,NIH_14197,61.0,M,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00014197_010.png,False,imagem ausente
+NIH_00014197_031,nih,pneumonia,NIH_14197,57.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00014197_031.png,False,imagem ausente
+NIH_00014201_008,nih,pneumonia,NIH_14201,31.0,F,PA,Pneumonia,brutos/nih/images/00014201_008.png,False,imagem ausente
+NIH_00014211_003,nih,pneumonia,NIH_14211,70.0,F,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00014211_003.png,False,imagem ausente
+NIH_00014234_000,nih,pneumonia,NIH_14234,42.0,F,PA,Pneumonia,brutos/nih/images/00014234_000.png,False,imagem ausente
+NIH_00014264_009,nih,normal,NIH_14264,57.0,M,PA,No Finding,brutos/nih/images/00014264_009.png,False,imagem ausente
+NIH_00014268_000,nih,normal,NIH_14268,27.0,F,PA,No Finding,brutos/nih/images/00014268_000.png,False,imagem ausente
+NIH_00014294_011,nih,pneumonia,NIH_14294,37.0,M,PA,Pneumonia,brutos/nih/images/00014294_011.png,False,imagem ausente
+NIH_00014329_000,nih,normal,NIH_14329,37.0,F,PA,No Finding,brutos/nih/images/00014329_000.png,False,imagem ausente
+NIH_00014363_000,nih,normal,NIH_14363,57.0,M,PA,No Finding,brutos/nih/images/00014363_000.png,False,imagem ausente
+NIH_00014393_007,nih,pneumonia,NIH_14393,24.0,F,PA,Pneumonia,brutos/nih/images/00014393_007.png,False,imagem ausente
+NIH_00014427_011,nih,normal,NIH_14427,49.0,M,PA,No Finding,brutos/nih/images/00014427_011.png,False,imagem ausente
+NIH_00014492_005,nih,pneumonia,NIH_14492,46.0,M,PA,Pneumonia,brutos/nih/images/00014492_005.png,False,imagem ausente
+NIH_00014520_008,nih,pneumonia,NIH_14520,32.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00014520_008.png,False,imagem ausente
+NIH_00014524_005,nih,pneumonia,NIH_14524,56.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00014524_005.png,False,imagem ausente
+NIH_00014603_006,nih,pneumonia,NIH_14603,67.0,F,PA,Pneumonia,brutos/nih/images/00014603_006.png,False,imagem ausente
+NIH_00014647_005,nih,pneumonia,NIH_14647,41.0,M,PA,Pneumonia,brutos/nih/images/00014647_005.png,False,imagem ausente
+NIH_00014647_009,nih,pneumonia,NIH_14647,41.0,M,PA,Pneumonia,brutos/nih/images/00014647_009.png,False,imagem ausente
+NIH_00014675_031,nih,pneumonia,NIH_14675,67.0,F,PA,Effusion|Infiltration|Pneumonia|Pneumothorax,brutos/nih/images/00014675_031.png,False,imagem ausente
+NIH_00014704_000,nih,normal,NIH_14704,30.0,F,PA,No Finding,brutos/nih/images/00014704_000.png,False,imagem ausente
+NIH_00014706_013,nih,pneumonia,NIH_14706,20.0,F,PA,Cardiomegaly|Effusion|Infiltration|Pneumonia,brutos/nih/images/00014706_013.png,False,imagem ausente
+NIH_00014710_005,nih,pneumonia,NIH_14710,59.0,F,PA,Atelectasis|Nodule|Pneumonia,brutos/nih/images/00014710_005.png,False,imagem ausente
+NIH_00014731_016,nih,pneumonia,NIH_14731,54.0,M,PA,Emphysema|Mass|Pneumonia|Pneumothorax,brutos/nih/images/00014731_016.png,False,imagem ausente
+NIH_00014739_000,nih,normal,NIH_14739,43.0,F,PA,No Finding,brutos/nih/images/00014739_000.png,False,imagem ausente
+NIH_00014771_004,nih,pneumonia,NIH_14771,34.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00014771_004.png,False,imagem ausente
+NIH_00014793_000,nih,normal,NIH_14793,70.0,M,PA,No Finding,brutos/nih/images/00014793_000.png,False,imagem ausente
+NIH_00014809_015,nih,normal,NIH_14809,53.0,M,PA,No Finding,brutos/nih/images/00014809_015.png,False,imagem ausente
+NIH_00014822_019,nih,normal,NIH_14822,58.0,F,PA,No Finding,brutos/nih/images/00014822_019.png,False,imagem ausente
+NIH_00014824_001,nih,normal,NIH_14824,31.0,M,PA,No Finding,brutos/nih/images/00014824_001.png,False,imagem ausente
+NIH_00014827_008,nih,normal,NIH_14827,48.0,M,PA,No Finding,brutos/nih/images/00014827_008.png,False,imagem ausente
+NIH_00014859_001,nih,normal,NIH_14859,72.0,F,PA,No Finding,brutos/nih/images/00014859_001.png,False,imagem ausente
+NIH_00014905_004,nih,pneumonia,NIH_14905,46.0,M,PA,Consolidation|Effusion|Mass|Pneumonia,brutos/nih/images/00014905_004.png,False,imagem ausente
+NIH_00014938_001,nih,normal,NIH_14938,55.0,F,PA,No Finding,brutos/nih/images/00014938_001.png,False,imagem ausente
+NIH_00014958_001,nih,pneumonia,NIH_14958,18.0,F,PA,Pneumonia,brutos/nih/images/00014958_001.png,False,imagem ausente
+NIH_00015036_001,nih,normal,NIH_15036,57.0,M,PA,No Finding,brutos/nih/images/00015036_001.png,False,imagem ausente
+NIH_00015067_000,nih,normal,NIH_15067,35.0,F,PA,No Finding,brutos/nih/images/00015067_000.png,False,imagem ausente
+NIH_00015069_000,nih,pneumonia,NIH_15069,25.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00015069_000.png,False,imagem ausente
+NIH_00015069_001,nih,pneumonia,NIH_15069,25.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00015069_001.png,False,imagem ausente
+NIH_00015090_006,nih,pneumonia,NIH_15090,53.0,M,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00015090_006.png,False,imagem ausente
+NIH_00015108_002,nih,pneumonia,NIH_15108,23.0,M,PA,Effusion|Mass|Pneumonia|Pneumothorax,brutos/nih/images/00015108_002.png,False,imagem ausente
+NIH_00015162_002,nih,pneumonia,NIH_15162,23.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00015162_002.png,False,imagem ausente
+NIH_00015163_003,nih,normal,NIH_15163,77.0,M,PA,No Finding,brutos/nih/images/00015163_003.png,False,imagem ausente
+NIH_00015166_002,nih,normal,NIH_15166,57.0,M,PA,No Finding,brutos/nih/images/00015166_002.png,False,imagem ausente
+NIH_00015220_000,nih,normal,NIH_15220,48.0,F,PA,No Finding,brutos/nih/images/00015220_000.png,False,imagem ausente
+NIH_00015255_013,nih,normal,NIH_15255,46.0,M,PA,No Finding,brutos/nih/images/00015255_013.png,False,imagem ausente
+NIH_00015273_000,nih,pneumonia,NIH_15273,50.0,M,PA,Pneumonia,brutos/nih/images/00015273_000.png,False,imagem ausente
+NIH_00015278_000,nih,normal,NIH_15278,74.0,M,PA,No Finding,brutos/nih/images/00015278_000.png,False,imagem ausente
+NIH_00015313_010,nih,normal,NIH_15313,34.0,F,PA,No Finding,brutos/nih/images/00015313_010.png,False,imagem ausente
+NIH_00015371_002,nih,normal,NIH_15371,52.0,M,PA,No Finding,brutos/nih/images/00015371_002.png,False,imagem ausente
+NIH_00015372_000,nih,normal,NIH_15372,20.0,M,PA,No Finding,brutos/nih/images/00015372_000.png,False,imagem ausente
+NIH_00015376_037,nih,pneumonia,NIH_15376,60.0,F,PA,Effusion|Pneumonia,brutos/nih/images/00015376_037.png,False,imagem ausente
+NIH_00015442_000,nih,pneumonia,NIH_15442,63.0,F,PA,Pneumonia,brutos/nih/images/00015442_000.png,False,imagem ausente
+NIH_00015442_001,nih,pneumonia,NIH_15442,63.0,F,PA,Pneumonia,brutos/nih/images/00015442_001.png,False,imagem ausente
+NIH_00015442_013,nih,pneumonia,NIH_15442,60.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00015442_013.png,False,imagem ausente
+NIH_00015551_002,nih,normal,NIH_15551,53.0,M,PA,No Finding,brutos/nih/images/00015551_002.png,False,imagem ausente
+NIH_00015558_001,nih,normal,NIH_15558,46.0,M,PA,No Finding,brutos/nih/images/00015558_001.png,False,imagem ausente
+NIH_00015605_012,nih,pneumonia,NIH_15605,32.0,F,PA,Consolidation|Effusion|Infiltration|Pneumonia,brutos/nih/images/00015605_012.png,False,imagem ausente
+NIH_00015628_017,nih,pneumonia,NIH_15628,48.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00015628_017.png,False,imagem ausente
+NIH_00015628_018,nih,pneumonia,NIH_15628,48.0,M,PA,Pneumonia,brutos/nih/images/00015628_018.png,False,imagem ausente
+NIH_00015647_009,nih,pneumonia,NIH_15647,43.0,F,PA,Consolidation|Effusion|Pneumonia,brutos/nih/images/00015647_009.png,False,imagem ausente
+NIH_00015701_000,nih,pneumonia,NIH_15701,31.0,M,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00015701_000.png,False,imagem ausente
+NIH_00015734_000,nih,pneumonia,NIH_15734,27.0,F,PA,Pneumonia,brutos/nih/images/00015734_000.png,False,imagem ausente
+NIH_00015799_003,nih,pneumonia,NIH_15799,68.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00015799_003.png,False,imagem ausente
+NIH_00015826_029,nih,pneumonia,NIH_15826,49.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00015826_029.png,False,imagem ausente
+NIH_00015826_036,nih,pneumonia,NIH_15826,52.0,M,PA,Pneumonia,brutos/nih/images/00015826_036.png,False,imagem ausente
+NIH_00015845_011,nih,pneumonia,NIH_15845,79.0,F,PA,Atelectasis|Consolidation|Infiltration|Mass|Pneumonia,brutos/nih/images/00015845_011.png,False,imagem ausente
+NIH_00015852_010,nih,normal,NIH_15852,45.0,F,PA,No Finding,brutos/nih/images/00015852_010.png,False,imagem ausente
+NIH_00015856_000,nih,normal,NIH_15856,65.0,M,PA,No Finding,brutos/nih/images/00015856_000.png,False,imagem ausente
+NIH_00015869_008,nih,normal,NIH_15869,44.0,F,PA,No Finding,brutos/nih/images/00015869_008.png,False,imagem ausente
+NIH_00015909_002,nih,normal,NIH_15909,33.0,F,PA,No Finding,brutos/nih/images/00015909_002.png,False,imagem ausente
+NIH_00015914_011,nih,pneumonia,NIH_15914,68.0,M,PA,Cardiomegaly|Effusion|Pneumonia,brutos/nih/images/00015914_011.png,False,imagem ausente
+NIH_00015968_000,nih,pneumonia,NIH_15968,36.0,F,PA,Pneumonia,brutos/nih/images/00015968_000.png,False,imagem ausente
+NIH_00015977_002,nih,pneumonia,NIH_15977,45.0,M,PA,Pneumonia,brutos/nih/images/00015977_002.png,False,imagem ausente
+NIH_00015977_003,nih,pneumonia,NIH_15977,45.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00015977_003.png,False,imagem ausente
+NIH_00015983_000,nih,pneumonia,NIH_15983,44.0,M,PA,Nodule|Pneumonia,brutos/nih/images/00015983_000.png,False,imagem ausente
+NIH_00015987_005,nih,pneumonia,NIH_15987,61.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00015987_005.png,False,imagem ausente
+NIH_00016011_009,nih,pneumonia,NIH_16011,27.0,F,PA,Effusion|Pneumonia,brutos/nih/images/00016011_009.png,False,imagem ausente
+NIH_00016011_011,nih,pneumonia,NIH_16011,27.0,F,PA,Pneumonia,brutos/nih/images/00016011_011.png,False,imagem ausente
+NIH_00016036_001,nih,pneumonia,NIH_16036,71.0,M,PA,Pneumonia,brutos/nih/images/00016036_001.png,False,imagem ausente
+NIH_00016048_000,nih,normal,NIH_16048,62.0,M,PA,No Finding,brutos/nih/images/00016048_000.png,False,imagem ausente
+NIH_00016064_010,nih,pneumonia,NIH_16064,55.0,M,PA,Effusion|Mass|Pneumonia,brutos/nih/images/00016064_010.png,False,imagem ausente
+NIH_00016067_000,nih,normal,NIH_16067,46.0,F,PA,No Finding,brutos/nih/images/00016067_000.png,False,imagem ausente
+NIH_00016094_031,nih,pneumonia,NIH_16094,26.0,M,PA,Infiltration|Pleural_Thickening|Pneumonia,brutos/nih/images/00016094_031.png,False,imagem ausente
+NIH_00016119_001,nih,pneumonia,NIH_16119,60.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00016119_001.png,False,imagem ausente
+NIH_00016122_011,nih,normal,NIH_16122,49.0,F,PA,No Finding,brutos/nih/images/00016122_011.png,False,imagem ausente
+NIH_00016179_000,nih,pneumonia,NIH_16179,53.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00016179_000.png,False,imagem ausente
+NIH_00016191_023,nih,pneumonia,NIH_16191,67.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00016191_023.png,False,imagem ausente
+NIH_00016191_026,nih,pneumonia,NIH_16191,67.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00016191_026.png,False,imagem ausente
+NIH_00016206_000,nih,normal,NIH_16206,32.0,F,PA,No Finding,brutos/nih/images/00016206_000.png,False,imagem ausente
+NIH_00016207_008,nih,normal,NIH_16207,71.0,M,PA,No Finding,brutos/nih/images/00016207_008.png,False,imagem ausente
+NIH_00016213_007,nih,pneumonia,NIH_16213,32.0,M,PA,Pneumonia,brutos/nih/images/00016213_007.png,False,imagem ausente
+NIH_00016225_000,nih,normal,NIH_16225,81.0,M,PA,No Finding,brutos/nih/images/00016225_000.png,False,imagem ausente
+NIH_00016232_003,nih,normal,NIH_16232,44.0,M,PA,No Finding,brutos/nih/images/00016232_003.png,False,imagem ausente
+NIH_00016233_001,nih,normal,NIH_16233,67.0,M,PA,No Finding,brutos/nih/images/00016233_001.png,False,imagem ausente
+NIH_00016291_015,nih,pneumonia,NIH_16291,53.0,M,PA,Pneumonia,brutos/nih/images/00016291_015.png,False,imagem ausente
+NIH_00016362_000,nih,pneumonia,NIH_16362,32.0,M,PA,Pneumonia,brutos/nih/images/00016362_000.png,False,imagem ausente
+NIH_00016367_001,nih,normal,NIH_16367,42.0,M,PA,No Finding,brutos/nih/images/00016367_001.png,False,imagem ausente
+NIH_00016425_000,nih,pneumonia,NIH_16425,29.0,M,PA,Pneumonia,brutos/nih/images/00016425_000.png,False,imagem ausente
+NIH_00016434_001,nih,pneumonia,NIH_16434,61.0,M,PA,Effusion|Nodule|Pneumonia,brutos/nih/images/00016434_001.png,False,imagem ausente
+NIH_00016435_000,nih,normal,NIH_16435,25.0,F,PA,No Finding,brutos/nih/images/00016435_000.png,False,imagem ausente
+NIH_00016568_002,nih,pneumonia,NIH_16568,37.0,F,PA,Mass|Nodule|Pneumonia,brutos/nih/images/00016568_002.png,False,imagem ausente
+NIH_00016599_001,nih,pneumonia,NIH_16599,48.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00016599_001.png,False,imagem ausente
+NIH_00016607_040,nih,pneumonia,NIH_16607,63.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00016607_040.png,False,imagem ausente
+NIH_00016697_000,nih,normal,NIH_16697,38.0,M,PA,No Finding,brutos/nih/images/00016697_000.png,False,imagem ausente
+NIH_00016704_000,nih,pneumonia,NIH_16704,52.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00016704_000.png,False,imagem ausente
+NIH_00016705_002,nih,pneumonia,NIH_16705,24.0,M,PA,Pneumonia,brutos/nih/images/00016705_002.png,False,imagem ausente
+NIH_00016705_003,nih,pneumonia,NIH_16705,24.0,M,PA,Pneumonia,brutos/nih/images/00016705_003.png,False,imagem ausente
+NIH_00016728_005,nih,pneumonia,NIH_16728,53.0,F,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00016728_005.png,False,imagem ausente
+NIH_00016757_001,nih,pneumonia,NIH_16757,49.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00016757_001.png,False,imagem ausente
+NIH_00016790_005,nih,normal,NIH_16790,29.0,M,PA,No Finding,brutos/nih/images/00016790_005.png,False,imagem ausente
+NIH_00016793_000,nih,pneumonia,NIH_16793,57.0,M,PA,Infiltration|Mass|Pneumonia,brutos/nih/images/00016793_000.png,False,imagem ausente
+NIH_00016817_000,nih,normal,NIH_16817,48.0,F,PA,No Finding,brutos/nih/images/00016817_000.png,False,imagem ausente
+NIH_00016825_000,nih,pneumonia,NIH_16825,52.0,F,PA,Pneumonia,brutos/nih/images/00016825_000.png,False,imagem ausente
+NIH_00016825_002,nih,pneumonia,NIH_16825,52.0,F,PA,Edema|Effusion|Pneumonia,brutos/nih/images/00016825_002.png,False,imagem ausente
+NIH_00016835_000,nih,normal,NIH_16835,64.0,M,PA,No Finding,brutos/nih/images/00016835_000.png,False,imagem ausente
+NIH_00016842_002,nih,normal,NIH_16842,47.0,M,PA,No Finding,brutos/nih/images/00016842_002.png,False,imagem ausente
+NIH_00016871_005,nih,normal,NIH_16871,31.0,F,PA,No Finding,brutos/nih/images/00016871_005.png,False,imagem ausente
+NIH_00016896_001,nih,pneumonia,NIH_16896,43.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00016896_001.png,False,imagem ausente
+NIH_00016896_012,nih,pneumonia,NIH_16896,44.0,M,PA,Pneumonia,brutos/nih/images/00016896_012.png,False,imagem ausente
+NIH_00016904_000,nih,normal,NIH_16904,46.0,F,PA,No Finding,brutos/nih/images/00016904_000.png,False,imagem ausente
+NIH_00016936_000,nih,pneumonia,NIH_16936,43.0,M,PA,Pneumonia,brutos/nih/images/00016936_000.png,False,imagem ausente
+NIH_00016949_000,nih,normal,NIH_16949,70.0,M,PA,No Finding,brutos/nih/images/00016949_000.png,False,imagem ausente
+NIH_00016967_001,nih,pneumonia,NIH_16967,62.0,F,PA,Pleural_Thickening|Pneumonia,brutos/nih/images/00016967_001.png,False,imagem ausente
+NIH_00016968_000,nih,normal,NIH_16968,45.0,M,PA,No Finding,brutos/nih/images/00016968_000.png,False,imagem ausente
+NIH_00016973_000,nih,normal,NIH_16973,40.0,M,PA,No Finding,brutos/nih/images/00016973_000.png,False,imagem ausente
+NIH_00016980_006,nih,pneumonia,NIH_16980,54.0,F,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00016980_006.png,False,imagem ausente
+NIH_00016983_000,nih,pneumonia,NIH_16983,35.0,F,PA,Mass|Nodule|Pneumonia,brutos/nih/images/00016983_000.png,False,imagem ausente
+NIH_00016991_002,nih,pneumonia,NIH_16991,31.0,F,PA,Pneumonia,brutos/nih/images/00016991_002.png,False,imagem ausente
+NIH_00016991_008,nih,pneumonia,NIH_16991,31.0,F,PA,Edema|Infiltration|Nodule|Pneumonia,brutos/nih/images/00016991_008.png,False,imagem ausente
+NIH_00017005_000,nih,pneumonia,NIH_17005,37.0,F,PA,Pneumonia,brutos/nih/images/00017005_000.png,False,imagem ausente
+NIH_00017064_012,nih,pneumonia,NIH_17064,68.0,M,PA,Effusion|Infiltration|Mass|Pneumonia,brutos/nih/images/00017064_012.png,False,imagem ausente
+NIH_00017106_007,nih,pneumonia,NIH_17106,57.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00017106_007.png,False,imagem ausente
+NIH_00017106_011,nih,pneumonia,NIH_17106,57.0,M,PA,Edema|Pneumonia,brutos/nih/images/00017106_011.png,False,imagem ausente
+NIH_00017123_001,nih,normal,NIH_17123,41.0,M,PA,No Finding,brutos/nih/images/00017123_001.png,False,imagem ausente
+NIH_00017191_001,nih,pneumonia,NIH_17191,45.0,M,PA,Cardiomegaly|Effusion|Pneumonia,brutos/nih/images/00017191_001.png,False,imagem ausente
+NIH_00017231_001,nih,pneumonia,NIH_17231,63.0,F,PA,Pneumonia,brutos/nih/images/00017231_001.png,False,imagem ausente
+NIH_00017255_001,nih,pneumonia,NIH_17255,26.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00017255_001.png,False,imagem ausente
+NIH_00017264_000,nih,normal,NIH_17264,18.0,F,PA,No Finding,brutos/nih/images/00017264_000.png,False,imagem ausente
+NIH_00017294_000,nih,normal,NIH_17294,41.0,M,PA,No Finding,brutos/nih/images/00017294_000.png,False,imagem ausente
+NIH_00017321_000,nih,normal,NIH_17321,43.0,M,PA,No Finding,brutos/nih/images/00017321_000.png,False,imagem ausente
+NIH_00017372_000,nih,normal,NIH_17372,43.0,M,PA,No Finding,brutos/nih/images/00017372_000.png,False,imagem ausente
+NIH_00017416_000,nih,normal,NIH_17416,23.0,M,PA,No Finding,brutos/nih/images/00017416_000.png,False,imagem ausente
+NIH_00017449_000,nih,normal,NIH_17449,29.0,M,PA,No Finding,brutos/nih/images/00017449_000.png,False,imagem ausente
+NIH_00017452_001,nih,normal,NIH_17452,49.0,F,PA,No Finding,brutos/nih/images/00017452_001.png,False,imagem ausente
+NIH_00017498_000,nih,normal,NIH_17498,29.0,M,PA,No Finding,brutos/nih/images/00017498_000.png,False,imagem ausente
+NIH_00017528_014,nih,pneumonia,NIH_17528,61.0,M,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00017528_014.png,False,imagem ausente
+NIH_00017549_002,nih,pneumonia,NIH_17549,31.0,M,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00017549_002.png,False,imagem ausente
+NIH_00017605_000,nih,pneumonia,NIH_17605,36.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00017605_000.png,False,imagem ausente
+NIH_00017617_006,nih,normal,NIH_17617,52.0,F,PA,No Finding,brutos/nih/images/00017617_006.png,False,imagem ausente
+NIH_00017652_000,nih,pneumonia,NIH_17652,50.0,M,PA,Pneumonia,brutos/nih/images/00017652_000.png,False,imagem ausente
+NIH_00017659_000,nih,pneumonia,NIH_17659,54.0,F,PA,Pneumonia,brutos/nih/images/00017659_000.png,False,imagem ausente
+NIH_00017698_015,nih,pneumonia,NIH_17698,74.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00017698_015.png,False,imagem ausente
+NIH_00017712_005,nih,pneumonia,NIH_17712,57.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00017712_005.png,False,imagem ausente
+NIH_00017730_000,nih,normal,NIH_17730,62.0,M,PA,No Finding,brutos/nih/images/00017730_000.png,False,imagem ausente
+NIH_00017773_000,nih,normal,NIH_17773,51.0,M,PA,No Finding,brutos/nih/images/00017773_000.png,False,imagem ausente
+NIH_00017835_032,nih,pneumonia,NIH_17835,49.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00017835_032.png,False,imagem ausente
+NIH_00017891_002,nih,normal,NIH_17891,71.0,F,PA,No Finding,brutos/nih/images/00017891_002.png,False,imagem ausente
+NIH_00017893_001,nih,normal,NIH_17893,70.0,M,PA,No Finding,brutos/nih/images/00017893_001.png,False,imagem ausente
+NIH_00017912_001,nih,pneumonia,NIH_17912,55.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00017912_001.png,False,imagem ausente
+NIH_00017941_001,nih,normal,NIH_17941,34.0,M,PA,No Finding,brutos/nih/images/00017941_001.png,False,imagem ausente
+NIH_00017952_008,nih,pneumonia,NIH_17952,52.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00017952_008.png,False,imagem ausente
+NIH_00017980_009,nih,pneumonia,NIH_17980,20.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00017980_009.png,False,imagem ausente
+NIH_00017998_000,nih,normal,NIH_17998,54.0,F,PA,No Finding,brutos/nih/images/00017998_000.png,False,imagem ausente
+NIH_00018015_013,nih,pneumonia,NIH_18015,37.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00018015_013.png,False,imagem ausente
+NIH_00018030_000,nih,normal,NIH_18030,58.0,M,PA,No Finding,brutos/nih/images/00018030_000.png,False,imagem ausente
+NIH_00018045_009,nih,normal,NIH_18045,63.0,M,PA,No Finding,brutos/nih/images/00018045_009.png,False,imagem ausente
+NIH_00018080_000,nih,pneumonia,NIH_18080,68.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00018080_000.png,False,imagem ausente
+NIH_00018080_006,nih,pneumonia,NIH_18080,68.0,F,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00018080_006.png,False,imagem ausente
+NIH_00018089_000,nih,normal,NIH_18089,37.0,F,PA,No Finding,brutos/nih/images/00018089_000.png,False,imagem ausente
+NIH_00018100_017,nih,normal,NIH_18100,59.0,M,PA,No Finding,brutos/nih/images/00018100_017.png,False,imagem ausente
+NIH_00018117_014,nih,normal,NIH_18117,34.0,M,PA,No Finding,brutos/nih/images/00018117_014.png,False,imagem ausente
+NIH_00018133_000,nih,pneumonia,NIH_18133,75.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00018133_000.png,False,imagem ausente
+NIH_00018182_015,nih,pneumonia,NIH_18182,30.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00018182_015.png,False,imagem ausente
+NIH_00018232_001,nih,normal,NIH_18232,43.0,F,PA,No Finding,brutos/nih/images/00018232_001.png,False,imagem ausente
+NIH_00018237_028,nih,pneumonia,NIH_18237,30.0,F,PA,Pneumonia,brutos/nih/images/00018237_028.png,False,imagem ausente
+NIH_00018277_002,nih,normal,NIH_18277,50.0,F,PA,No Finding,brutos/nih/images/00018277_002.png,False,imagem ausente
+NIH_00018294_000,nih,normal,NIH_18294,49.0,M,PA,No Finding,brutos/nih/images/00018294_000.png,False,imagem ausente
+NIH_00018316_000,nih,normal,NIH_18316,34.0,F,PA,No Finding,brutos/nih/images/00018316_000.png,False,imagem ausente
+NIH_00018322_002,nih,pneumonia,NIH_18322,32.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00018322_002.png,False,imagem ausente
+NIH_00018362_008,nih,pneumonia,NIH_18362,47.0,M,PA,Fibrosis|Pneumonia,brutos/nih/images/00018362_008.png,False,imagem ausente
+NIH_00018365_000,nih,normal,NIH_18365,37.0,M,PA,No Finding,brutos/nih/images/00018365_000.png,False,imagem ausente
+NIH_00018367_000,nih,normal,NIH_18367,57.0,F,PA,No Finding,brutos/nih/images/00018367_000.png,False,imagem ausente
+NIH_00018393_000,nih,pneumonia,NIH_18393,47.0,F,PA,Mass|Infiltration|Pneumonia,brutos/nih/images/00018393_000.png,False,imagem ausente
+NIH_00018415_000,nih,normal,NIH_18415,49.0,F,PA,No Finding,brutos/nih/images/00018415_000.png,False,imagem ausente
+NIH_00018436_000,nih,normal,NIH_18436,38.0,M,PA,No Finding,brutos/nih/images/00018436_000.png,False,imagem ausente
+NIH_00018439_000,nih,normal,NIH_18439,56.0,M,PA,No Finding,brutos/nih/images/00018439_000.png,False,imagem ausente
+NIH_00018444_004,nih,normal,NIH_18444,50.0,M,PA,No Finding,brutos/nih/images/00018444_004.png,False,imagem ausente
+NIH_00018451_007,nih,normal,NIH_18451,49.0,F,PA,No Finding,brutos/nih/images/00018451_007.png,False,imagem ausente
+NIH_00018471_001,nih,normal,NIH_18471,28.0,M,PA,No Finding,brutos/nih/images/00018471_001.png,False,imagem ausente
+NIH_00018525_000,nih,pneumonia,NIH_18525,33.0,M,PA,Pneumonia,brutos/nih/images/00018525_000.png,False,imagem ausente
+NIH_00018534_001,nih,normal,NIH_18534,25.0,F,PA,No Finding,brutos/nih/images/00018534_001.png,False,imagem ausente
+NIH_00018602_000,nih,normal,NIH_18602,47.0,M,PA,No Finding,brutos/nih/images/00018602_000.png,False,imagem ausente
+NIH_00018610_029,nih,pneumonia,NIH_18610,63.0,M,PA,Atelectasis|Effusion|Pneumonia|Pneumothorax,brutos/nih/images/00018610_029.png,False,imagem ausente
+NIH_00018680_007,nih,normal,NIH_18680,73.0,M,PA,No Finding,brutos/nih/images/00018680_007.png,False,imagem ausente
+NIH_00018703_000,nih,normal,NIH_18703,64.0,M,PA,No Finding,brutos/nih/images/00018703_000.png,False,imagem ausente
+NIH_00018717_001,nih,normal,NIH_18717,78.0,M,PA,No Finding,brutos/nih/images/00018717_001.png,False,imagem ausente
+NIH_00018843_000,nih,pneumonia,NIH_18843,50.0,M,PA,Pneumonia,brutos/nih/images/00018843_000.png,False,imagem ausente
+NIH_00018855_001,nih,normal,NIH_18855,54.0,M,PA,No Finding,brutos/nih/images/00018855_001.png,False,imagem ausente
+NIH_00018921_062,nih,pneumonia,NIH_18921,42.0,F,PA,Edema|Infiltration|Pneumonia,brutos/nih/images/00018921_062.png,False,imagem ausente
+NIH_00018926_001,nih,pneumonia,NIH_18926,49.0,F,PA,Pneumonia,brutos/nih/images/00018926_001.png,False,imagem ausente
+NIH_00018960_022,nih,pneumonia,NIH_18960,24.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00018960_022.png,False,imagem ausente
+NIH_00018960_023,nih,pneumonia,NIH_18960,24.0,M,PA,Pneumonia,brutos/nih/images/00018960_023.png,False,imagem ausente
+NIH_00018990_000,nih,normal,NIH_18990,50.0,M,PA,No Finding,brutos/nih/images/00018990_000.png,False,imagem ausente
+NIH_00019021_001,nih,pneumonia,NIH_19021,44.0,M,PA,Pneumonia,brutos/nih/images/00019021_001.png,False,imagem ausente
+NIH_00019037_000,nih,normal,NIH_19037,54.0,F,PA,No Finding,brutos/nih/images/00019037_000.png,False,imagem ausente
+NIH_00019124_035,nih,normal,NIH_19124,52.0,F,PA,No Finding,brutos/nih/images/00019124_035.png,False,imagem ausente
+NIH_00019154_003,nih,pneumonia,NIH_19154,58.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00019154_003.png,False,imagem ausente
+NIH_00019169_001,nih,pneumonia,NIH_19169,56.0,F,PA,Pneumonia,brutos/nih/images/00019169_001.png,False,imagem ausente
+NIH_00019199_001,nih,pneumonia,NIH_19199,60.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00019199_001.png,False,imagem ausente
+NIH_00019234_002,nih,normal,NIH_19234,76.0,M,PA,No Finding,brutos/nih/images/00019234_002.png,False,imagem ausente
+NIH_00019275_001,nih,pneumonia,NIH_19275,54.0,F,PA,Pneumonia,brutos/nih/images/00019275_001.png,False,imagem ausente
+NIH_00019275_002,nih,pneumonia,NIH_19275,55.0,F,PA,Pneumonia,brutos/nih/images/00019275_002.png,False,imagem ausente
+NIH_00019306_002,nih,normal,NIH_19306,32.0,M,PA,No Finding,brutos/nih/images/00019306_002.png,False,imagem ausente
+NIH_00019431_000,nih,normal,NIH_19431,51.0,M,PA,No Finding,brutos/nih/images/00019431_000.png,False,imagem ausente
+NIH_00019485_001,nih,normal,NIH_19485,62.0,M,PA,No Finding,brutos/nih/images/00019485_001.png,False,imagem ausente
+NIH_00019521_001,nih,normal,NIH_19521,21.0,M,PA,No Finding,brutos/nih/images/00019521_001.png,False,imagem ausente
+NIH_00019594_009,nih,pneumonia,NIH_19594,57.0,M,PA,Atelectasis|Effusion|Pneumonia,brutos/nih/images/00019594_009.png,False,imagem ausente
+NIH_00019646_002,nih,pneumonia,NIH_19646,31.0,F,PA,Consolidation|Effusion|Pneumonia,brutos/nih/images/00019646_002.png,False,imagem ausente
+NIH_00019661_000,nih,normal,NIH_19661,25.0,M,PA,No Finding,brutos/nih/images/00019661_000.png,False,imagem ausente
+NIH_00019680_000,nih,normal,NIH_19680,54.0,F,PA,No Finding,brutos/nih/images/00019680_000.png,False,imagem ausente
+NIH_00019690_003,nih,pneumonia,NIH_19690,40.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00019690_003.png,False,imagem ausente
+NIH_00019694_005,nih,pneumonia,NIH_19694,57.0,F,PA,Cardiomegaly|Pneumonia,brutos/nih/images/00019694_005.png,False,imagem ausente
+NIH_00019706_004,nih,normal,NIH_19706,34.0,M,PA,No Finding,brutos/nih/images/00019706_004.png,False,imagem ausente
+NIH_00019750_031,nih,pneumonia,NIH_19750,57.0,M,PA,Pneumonia,brutos/nih/images/00019750_031.png,False,imagem ausente
+NIH_00019756_003,nih,pneumonia,NIH_19756,26.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00019756_003.png,False,imagem ausente
+NIH_00019766_026,nih,pneumonia,NIH_19766,41.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00019766_026.png,False,imagem ausente
+NIH_00019769_014,nih,pneumonia,NIH_19769,49.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00019769_014.png,False,imagem ausente
+NIH_00019774_000,nih,normal,NIH_19774,44.0,M,PA,No Finding,brutos/nih/images/00019774_000.png,False,imagem ausente
+NIH_00019830_000,nih,normal,NIH_19830,24.0,M,PA,No Finding,brutos/nih/images/00019830_000.png,False,imagem ausente
+NIH_00019863_008,nih,pneumonia,NIH_19863,35.0,F,PA,Infiltration|Pneumonia|Pneumothorax,brutos/nih/images/00019863_008.png,False,imagem ausente
+NIH_00019865_013,nih,pneumonia,NIH_19865,22.0,M,PA,Pneumonia,brutos/nih/images/00019865_013.png,False,imagem ausente
+NIH_00019865_014,nih,pneumonia,NIH_19865,23.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00019865_014.png,False,imagem ausente
+NIH_00019880_007,nih,pneumonia,NIH_19880,65.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00019880_007.png,False,imagem ausente
+NIH_00019902_000,nih,normal,NIH_19902,49.0,F,PA,No Finding,brutos/nih/images/00019902_000.png,False,imagem ausente
+NIH_00019915_001,nih,normal,NIH_19915,55.0,M,PA,No Finding,brutos/nih/images/00019915_001.png,False,imagem ausente
+NIH_00019927_001,nih,pneumonia,NIH_19927,62.0,M,PA,Infiltration|Mass|Pneumonia,brutos/nih/images/00019927_001.png,False,imagem ausente
+NIH_00019962_002,nih,pneumonia,NIH_19962,29.0,M,PA,Pneumonia,brutos/nih/images/00019962_002.png,False,imagem ausente
+NIH_00019962_005,nih,pneumonia,NIH_19962,29.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00019962_005.png,False,imagem ausente
+NIH_00019978_001,nih,pneumonia,NIH_19978,51.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00019978_001.png,False,imagem ausente
+NIH_00019994_003,nih,pneumonia,NIH_19994,62.0,F,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00019994_003.png,False,imagem ausente
+NIH_00020076_002,nih,pneumonia,NIH_20076,67.0,M,PA,Pneumonia,brutos/nih/images/00020076_002.png,False,imagem ausente
+NIH_00020083_000,nih,normal,NIH_20083,48.0,F,PA,No Finding,brutos/nih/images/00020083_000.png,False,imagem ausente
+NIH_00020162_000,nih,normal,NIH_20162,32.0,M,PA,No Finding,brutos/nih/images/00020162_000.png,False,imagem ausente
+NIH_00020184_004,nih,pneumonia,NIH_20184,25.0,M,PA,Infiltration|Nodule|Pneumonia,brutos/nih/images/00020184_004.png,False,imagem ausente
+NIH_00020280_000,nih,normal,NIH_20280,35.0,F,PA,No Finding,brutos/nih/images/00020280_000.png,False,imagem ausente
+NIH_00020322_007,nih,pneumonia,NIH_20322,44.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00020322_007.png,False,imagem ausente
+NIH_00020333_003,nih,pneumonia,NIH_20333,65.0,F,PA,Infiltration|Mass|Nodule|Pneumonia,brutos/nih/images/00020333_003.png,False,imagem ausente
+NIH_00020452_000,nih,normal,NIH_20452,44.0,M,PA,No Finding,brutos/nih/images/00020452_000.png,False,imagem ausente
+NIH_00020524_018,nih,normal,NIH_20524,48.0,F,PA,No Finding,brutos/nih/images/00020524_018.png,False,imagem ausente
+NIH_00020548_001,nih,pneumonia,NIH_20548,53.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00020548_001.png,False,imagem ausente
+NIH_00020589_001,nih,normal,NIH_20589,46.0,F,PA,No Finding,brutos/nih/images/00020589_001.png,False,imagem ausente
+NIH_00020624_002,nih,normal,NIH_20624,70.0,M,PA,No Finding,brutos/nih/images/00020624_002.png,False,imagem ausente
+NIH_00020681_000,nih,normal,NIH_20681,42.0,M,PA,No Finding,brutos/nih/images/00020681_000.png,False,imagem ausente
+NIH_00020722_001,nih,normal,NIH_20722,52.0,F,PA,No Finding,brutos/nih/images/00020722_001.png,False,imagem ausente
+NIH_00020760_000,nih,normal,NIH_20760,44.0,F,PA,No Finding,brutos/nih/images/00020760_000.png,False,imagem ausente
+NIH_00020798_001,nih,pneumonia,NIH_20798,43.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00020798_001.png,False,imagem ausente
+NIH_00020830_000,nih,normal,NIH_20830,31.0,M,PA,No Finding,brutos/nih/images/00020830_000.png,False,imagem ausente
+NIH_00020845_002,nih,pneumonia,NIH_20845,51.0,F,PA,Pneumonia,brutos/nih/images/00020845_002.png,False,imagem ausente
+NIH_00020857_011,nih,normal,NIH_20857,36.0,M,PA,No Finding,brutos/nih/images/00020857_011.png,False,imagem ausente
+NIH_00020871_000,nih,pneumonia,NIH_20871,63.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00020871_000.png,False,imagem ausente
+NIH_00020884_000,nih,normal,NIH_20884,41.0,M,PA,No Finding,brutos/nih/images/00020884_000.png,False,imagem ausente
+NIH_00020898_000,nih,normal,NIH_20898,55.0,M,PA,No Finding,brutos/nih/images/00020898_000.png,False,imagem ausente
+NIH_00020928_000,nih,pneumonia,NIH_20928,68.0,M,PA,Pneumonia,brutos/nih/images/00020928_000.png,False,imagem ausente
+NIH_00020982_002,nih,pneumonia,NIH_20982,64.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00020982_002.png,False,imagem ausente
+NIH_00021016_000,nih,pneumonia,NIH_21016,44.0,F,PA,Pneumonia,brutos/nih/images/00021016_000.png,False,imagem ausente
+NIH_00021024_009,nih,pneumonia,NIH_21024,25.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00021024_009.png,False,imagem ausente
+NIH_00021091_002,nih,pneumonia,NIH_21091,47.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00021091_002.png,False,imagem ausente
+NIH_00021127_018,nih,pneumonia,NIH_21127,65.0,M,PA,Pneumonia,brutos/nih/images/00021127_018.png,False,imagem ausente
+NIH_00021128_003,nih,pneumonia,NIH_21128,49.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00021128_003.png,False,imagem ausente
+NIH_00021179_003,nih,normal,NIH_21179,48.0,M,PA,No Finding,brutos/nih/images/00021179_003.png,False,imagem ausente
+NIH_00021190_000,nih,normal,NIH_21190,58.0,M,PA,No Finding,brutos/nih/images/00021190_000.png,False,imagem ausente
+NIH_00021191_000,nih,normal,NIH_21191,49.0,F,PA,No Finding,brutos/nih/images/00021191_000.png,False,imagem ausente
+NIH_00021201_004,nih,pneumonia,NIH_21201,65.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00021201_004.png,False,imagem ausente
+NIH_00021216_005,nih,pneumonia,NIH_21216,34.0,F,PA,Consolidation|Pneumonia,brutos/nih/images/00021216_005.png,False,imagem ausente
+NIH_00021243_001,nih,pneumonia,NIH_21243,28.0,M,PA,Pneumonia,brutos/nih/images/00021243_001.png,False,imagem ausente
+NIH_00021294_005,nih,pneumonia,NIH_21294,57.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00021294_005.png,False,imagem ausente
+NIH_00021338_000,nih,pneumonia,NIH_21338,60.0,M,PA,Atelectasis|Infiltration|Pleural_Thickening|Pneumonia,brutos/nih/images/00021338_000.png,False,imagem ausente
+NIH_00021366_002,nih,normal,NIH_21366,33.0,M,PA,No Finding,brutos/nih/images/00021366_002.png,False,imagem ausente
+NIH_00021369_003,nih,pneumonia,NIH_21369,38.0,F,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00021369_003.png,False,imagem ausente
+NIH_00021381_029,nih,normal,NIH_21381,65.0,F,PA,No Finding,brutos/nih/images/00021381_029.png,False,imagem ausente
+NIH_00021394_000,nih,normal,NIH_21394,74.0,M,PA,No Finding,brutos/nih/images/00021394_000.png,False,imagem ausente
+NIH_00021399_000,nih,pneumonia,NIH_21399,47.0,M,PA,Pneumonia,brutos/nih/images/00021399_000.png,False,imagem ausente
+NIH_00021416_001,nih,normal,NIH_21416,35.0,F,PA,No Finding,brutos/nih/images/00021416_001.png,False,imagem ausente
+NIH_00021458_000,nih,pneumonia,NIH_21458,60.0,F,PA,Cardiomegaly|Nodule|Pneumonia,brutos/nih/images/00021458_000.png,False,imagem ausente
+NIH_00021494_006,nih,pneumonia,NIH_21494,37.0,F,PA,Nodule|Pneumonia,brutos/nih/images/00021494_006.png,False,imagem ausente
+NIH_00021552_005,nih,normal,NIH_21552,53.0,M,PA,No Finding,brutos/nih/images/00021552_005.png,False,imagem ausente
+NIH_00021554_000,nih,normal,NIH_21554,52.0,M,PA,No Finding,brutos/nih/images/00021554_000.png,False,imagem ausente
+NIH_00021584_001,nih,pneumonia,NIH_21584,46.0,M,PA,Pneumonia,brutos/nih/images/00021584_001.png,False,imagem ausente
+NIH_00021627_007,nih,pneumonia,NIH_21627,43.0,M,PA,Pneumonia,brutos/nih/images/00021627_007.png,False,imagem ausente
+NIH_00021634_000,nih,normal,NIH_21634,18.0,F,PA,No Finding,brutos/nih/images/00021634_000.png,False,imagem ausente
+NIH_00021663_001,nih,pneumonia,NIH_21663,21.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00021663_001.png,False,imagem ausente
+NIH_00021670_004,nih,pneumonia,NIH_21670,41.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00021670_004.png,False,imagem ausente
+NIH_00021706_004,nih,pneumonia,NIH_21706,69.0,F,PA,Pneumonia,brutos/nih/images/00021706_004.png,False,imagem ausente
+NIH_00021706_005,nih,pneumonia,NIH_21706,69.0,F,PA,Pneumonia,brutos/nih/images/00021706_005.png,False,imagem ausente
+NIH_00021710_002,nih,pneumonia,NIH_21710,59.0,M,PA,Pneumonia,brutos/nih/images/00021710_002.png,False,imagem ausente
+NIH_00021727_000,nih,normal,NIH_21727,47.0,M,PA,No Finding,brutos/nih/images/00021727_000.png,False,imagem ausente
+NIH_00021772_011,nih,pneumonia,NIH_21772,62.0,M,PA,Nodule|Pneumonia,brutos/nih/images/00021772_011.png,False,imagem ausente
+NIH_00021782_014,nih,normal,NIH_21782,34.0,F,PA,No Finding,brutos/nih/images/00021782_014.png,False,imagem ausente
+NIH_00021786_005,nih,pneumonia,NIH_21786,50.0,M,PA,Edema|Pneumonia,brutos/nih/images/00021786_005.png,False,imagem ausente
+NIH_00021811_004,nih,pneumonia,NIH_21811,36.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00021811_004.png,False,imagem ausente
+NIH_00021818_024,nih,pneumonia,NIH_21818,37.0,M,PA,Consolidation|Infiltration|Pneumonia,brutos/nih/images/00021818_024.png,False,imagem ausente
+NIH_00021818_025,nih,pneumonia,NIH_21818,37.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00021818_025.png,False,imagem ausente
+NIH_00021818_026,nih,pneumonia,NIH_21818,37.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00021818_026.png,False,imagem ausente
+NIH_00021852_000,nih,normal,NIH_21852,39.0,F,PA,No Finding,brutos/nih/images/00021852_000.png,False,imagem ausente
+NIH_00021870_000,nih,normal,NIH_21870,45.0,F,PA,No Finding,brutos/nih/images/00021870_000.png,False,imagem ausente
+NIH_00021888_003,nih,normal,NIH_21888,57.0,M,PA,No Finding,brutos/nih/images/00021888_003.png,False,imagem ausente
+NIH_00021895_001,nih,pneumonia,NIH_21895,32.0,M,PA,Pneumonia,brutos/nih/images/00021895_001.png,False,imagem ausente
+NIH_00021936_000,nih,normal,NIH_21936,26.0,F,PA,No Finding,brutos/nih/images/00021936_000.png,False,imagem ausente
+NIH_00021968_007,nih,normal,NIH_21968,30.0,M,PA,No Finding,brutos/nih/images/00021968_007.png,False,imagem ausente
+NIH_00022021_002,nih,pneumonia,NIH_22021,57.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00022021_002.png,False,imagem ausente
+NIH_00022084_000,nih,pneumonia,NIH_22084,48.0,F,PA,Edema|Pneumonia,brutos/nih/images/00022084_000.png,False,imagem ausente
+NIH_00022152_000,nih,normal,NIH_22152,27.0,F,PA,No Finding,brutos/nih/images/00022152_000.png,False,imagem ausente
+NIH_00022156_006,nih,pneumonia,NIH_22156,64.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00022156_006.png,False,imagem ausente
+NIH_00022156_008,nih,pneumonia,NIH_22156,65.0,M,PA,Pneumonia,brutos/nih/images/00022156_008.png,False,imagem ausente
+NIH_00022178_000,nih,pneumonia,NIH_22178,67.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00022178_000.png,False,imagem ausente
+NIH_00022192_032,nih,pneumonia,NIH_22192,73.0,M,PA,Pneumonia,brutos/nih/images/00022192_032.png,False,imagem ausente
+NIH_00022192_038,nih,pneumonia,NIH_22192,73.0,M,PA,Pneumonia,brutos/nih/images/00022192_038.png,False,imagem ausente
+NIH_00022201_000,nih,pneumonia,NIH_22201,40.0,M,PA,Pneumonia,brutos/nih/images/00022201_000.png,False,imagem ausente
+NIH_00022215_012,nih,pneumonia,NIH_22215,53.0,F,PA,Atelectasis|Cardiomegaly|Effusion|Infiltration|Pneumonia,brutos/nih/images/00022215_012.png,False,imagem ausente
+NIH_00022234_000,nih,normal,NIH_22234,39.0,M,PA,No Finding,brutos/nih/images/00022234_000.png,False,imagem ausente
+NIH_00022260_003,nih,normal,NIH_22260,54.0,F,PA,No Finding,brutos/nih/images/00022260_003.png,False,imagem ausente
+NIH_00022271_000,nih,normal,NIH_22271,30.0,M,PA,No Finding,brutos/nih/images/00022271_000.png,False,imagem ausente
+NIH_00022329_001,nih,pneumonia,NIH_22329,21.0,M,PA,Pneumonia,brutos/nih/images/00022329_001.png,False,imagem ausente
+NIH_00022338_002,nih,pneumonia,NIH_22338,60.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00022338_002.png,False,imagem ausente
+NIH_00022340_000,nih,normal,NIH_22340,38.0,M,PA,No Finding,brutos/nih/images/00022340_000.png,False,imagem ausente
+NIH_00022366_000,nih,normal,NIH_22366,35.0,F,PA,No Finding,brutos/nih/images/00022366_000.png,False,imagem ausente
+NIH_00022402_000,nih,pneumonia,NIH_22402,43.0,M,PA,Edema|Pneumonia,brutos/nih/images/00022402_000.png,False,imagem ausente
+NIH_00022436_000,nih,pneumonia,NIH_22436,53.0,F,PA,Pneumonia,brutos/nih/images/00022436_000.png,False,imagem ausente
+NIH_00022458_001,nih,pneumonia,NIH_22458,19.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00022458_001.png,False,imagem ausente
+NIH_00022466_000,nih,normal,NIH_22466,58.0,M,PA,No Finding,brutos/nih/images/00022466_000.png,False,imagem ausente
+NIH_00022514_002,nih,pneumonia,NIH_22514,41.0,M,PA,Consolidation|Infiltration|Nodule|Pneumonia,brutos/nih/images/00022514_002.png,False,imagem ausente
+NIH_00022596_003,nih,normal,NIH_22596,53.0,M,PA,No Finding,brutos/nih/images/00022596_003.png,False,imagem ausente
+NIH_00022631_000,nih,pneumonia,NIH_22631,65.0,M,PA,Edema|Effusion|Infiltration|Pneumonia,brutos/nih/images/00022631_000.png,False,imagem ausente
+NIH_00022635_003,nih,normal,NIH_22635,19.0,M,PA,No Finding,brutos/nih/images/00022635_003.png,False,imagem ausente
+NIH_00022645_000,nih,normal,NIH_22645,22.0,F,PA,No Finding,brutos/nih/images/00022645_000.png,False,imagem ausente
+NIH_00022652_001,nih,normal,NIH_22652,54.0,M,PA,No Finding,brutos/nih/images/00022652_001.png,False,imagem ausente
+NIH_00022687_004,nih,pneumonia,NIH_22687,74.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00022687_004.png,False,imagem ausente
+NIH_00022711_000,nih,normal,NIH_22711,60.0,M,PA,No Finding,brutos/nih/images/00022711_000.png,False,imagem ausente
+NIH_00022764_016,nih,pneumonia,NIH_22764,70.0,M,PA,Consolidation|Effusion|Infiltration|Pneumonia,brutos/nih/images/00022764_016.png,False,imagem ausente
+NIH_00022774_000,nih,normal,NIH_22774,59.0,F,PA,No Finding,brutos/nih/images/00022774_000.png,False,imagem ausente
+NIH_00022914_001,nih,normal,NIH_22914,36.0,F,PA,No Finding,brutos/nih/images/00022914_001.png,False,imagem ausente
+NIH_00022947_001,nih,normal,NIH_22947,34.0,F,PA,No Finding,brutos/nih/images/00022947_001.png,False,imagem ausente
+NIH_00022949_001,nih,pneumonia,NIH_22949,69.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00022949_001.png,False,imagem ausente
+NIH_00022961_008,nih,pneumonia,NIH_22961,61.0,F,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00022961_008.png,False,imagem ausente
+NIH_00022965_004,nih,pneumonia,NIH_22965,54.0,F,PA,Pneumonia,brutos/nih/images/00022965_004.png,False,imagem ausente
+NIH_00022984_000,nih,normal,NIH_22984,43.0,M,PA,No Finding,brutos/nih/images/00022984_000.png,False,imagem ausente
+NIH_00023050_000,nih,pneumonia,NIH_23050,62.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00023050_000.png,False,imagem ausente
+NIH_00023075_041,nih,normal,NIH_23075,31.0,M,PA,No Finding,brutos/nih/images/00023075_041.png,False,imagem ausente
+NIH_00023089_004,nih,pneumonia,NIH_23089,59.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00023089_004.png,False,imagem ausente
+NIH_00023109_003,nih,pneumonia,NIH_23109,65.0,F,PA,Atelectasis|Effusion|Pneumonia,brutos/nih/images/00023109_003.png,False,imagem ausente
+NIH_00023113_004,nih,normal,NIH_23113,61.0,M,PA,No Finding,brutos/nih/images/00023113_004.png,False,imagem ausente
+NIH_00023147_000,nih,normal,NIH_23147,18.0,M,PA,No Finding,brutos/nih/images/00023147_000.png,False,imagem ausente
+NIH_00023178_002,nih,pneumonia,NIH_23178,58.0,F,PA,Consolidation|Pneumonia,brutos/nih/images/00023178_002.png,False,imagem ausente
+NIH_00023208_000,nih,normal,NIH_23208,49.0,F,PA,No Finding,brutos/nih/images/00023208_000.png,False,imagem ausente
+NIH_00023271_002,nih,pneumonia,NIH_23271,40.0,F,PA,Edema|Pneumonia,brutos/nih/images/00023271_002.png,False,imagem ausente
+NIH_00023283_005,nih,pneumonia,NIH_23283,50.0,F,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00023283_005.png,False,imagem ausente
+NIH_00023294_002,nih,normal,NIH_23294,31.0,F,PA,No Finding,brutos/nih/images/00023294_002.png,False,imagem ausente
+NIH_00023329_000,nih,normal,NIH_23329,31.0,M,PA,No Finding,brutos/nih/images/00023329_000.png,False,imagem ausente
+NIH_00023393_000,nih,normal,NIH_23393,32.0,F,PA,No Finding,brutos/nih/images/00023393_000.png,False,imagem ausente
+NIH_00023497_001,nih,normal,NIH_23497,63.0,M,PA,No Finding,brutos/nih/images/00023497_001.png,False,imagem ausente
+NIH_00023550_000,nih,normal,NIH_23550,44.0,M,PA,No Finding,brutos/nih/images/00023550_000.png,False,imagem ausente
+NIH_00023648_000,nih,normal,NIH_23648,33.0,M,PA,No Finding,brutos/nih/images/00023648_000.png,False,imagem ausente
+NIH_00023688_006,nih,normal,NIH_23688,55.0,M,PA,No Finding,brutos/nih/images/00023688_006.png,False,imagem ausente
+NIH_00023694_000,nih,normal,NIH_23694,32.0,M,PA,No Finding,brutos/nih/images/00023694_000.png,False,imagem ausente
+NIH_00023699_000,nih,normal,NIH_23699,53.0,M,PA,No Finding,brutos/nih/images/00023699_000.png,False,imagem ausente
+NIH_00023764_000,nih,normal,NIH_23764,50.0,M,PA,No Finding,brutos/nih/images/00023764_000.png,False,imagem ausente
+NIH_00023831_000,nih,normal,NIH_23831,40.0,M,PA,No Finding,brutos/nih/images/00023831_000.png,False,imagem ausente
+NIH_00023859_000,nih,normal,NIH_23859,33.0,M,PA,No Finding,brutos/nih/images/00023859_000.png,False,imagem ausente
+NIH_00023873_000,nih,normal,NIH_23873,21.0,F,PA,No Finding,brutos/nih/images/00023873_000.png,False,imagem ausente
+NIH_00023960_000,nih,normal,NIH_23960,54.0,M,PA,No Finding,brutos/nih/images/00023960_000.png,False,imagem ausente
+NIH_00024095_000,nih,normal,NIH_24095,47.0,M,PA,No Finding,brutos/nih/images/00024095_000.png,False,imagem ausente
+NIH_00024192_000,nih,normal,NIH_24192,38.0,M,PA,No Finding,brutos/nih/images/00024192_000.png,False,imagem ausente
+NIH_00024398_000,nih,normal,NIH_24398,27.0,F,PA,No Finding,brutos/nih/images/00024398_000.png,False,imagem ausente
+NIH_00024419_000,nih,normal,NIH_24419,49.0,F,PA,No Finding,brutos/nih/images/00024419_000.png,False,imagem ausente
+NIH_00024524_000,nih,pneumonia,NIH_24524,35.0,M,PA,Atelectasis|Pneumonia,brutos/nih/images/00024524_000.png,False,imagem ausente
+NIH_00024533_000,nih,normal,NIH_24533,60.0,M,PA,No Finding,brutos/nih/images/00024533_000.png,False,imagem ausente
+NIH_00024569_000,nih,normal,NIH_24569,37.0,M,PA,No Finding,brutos/nih/images/00024569_000.png,False,imagem ausente
+NIH_00024609_000,nih,normal,NIH_24609,32.0,M,PA,No Finding,brutos/nih/images/00024609_000.png,False,imagem ausente
+NIH_00024631_000,nih,normal,NIH_24631,36.0,M,PA,No Finding,brutos/nih/images/00024631_000.png,False,imagem ausente
+NIH_00024770_000,nih,normal,NIH_24770,49.0,F,PA,No Finding,brutos/nih/images/00024770_000.png,False,imagem ausente
+NIH_00024827_000,nih,normal,NIH_24827,27.0,M,PA,No Finding,brutos/nih/images/00024827_000.png,False,imagem ausente
+NIH_00024887_000,nih,normal,NIH_24887,36.0,M,PA,No Finding,brutos/nih/images/00024887_000.png,False,imagem ausente
+NIH_00025007_000,nih,pneumonia,NIH_25007,22.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00025007_000.png,False,imagem ausente
+NIH_00025019_000,nih,normal,NIH_25019,25.0,M,PA,No Finding,brutos/nih/images/00025019_000.png,False,imagem ausente
+NIH_00025056_000,nih,normal,NIH_25056,30.0,F,PA,No Finding,brutos/nih/images/00025056_000.png,False,imagem ausente
+NIH_00025097_004,nih,normal,NIH_25097,42.0,F,PA,No Finding,brutos/nih/images/00025097_004.png,False,imagem ausente
+NIH_00025110_014,nih,pneumonia,NIH_25110,44.0,M,PA,Consolidation|Infiltration|Pneumonia,brutos/nih/images/00025110_014.png,False,imagem ausente
+NIH_00025117_001,nih,normal,NIH_25117,47.0,M,PA,No Finding,brutos/nih/images/00025117_001.png,False,imagem ausente
+NIH_00025177_000,nih,normal,NIH_25177,51.0,F,PA,No Finding,brutos/nih/images/00025177_000.png,False,imagem ausente
+NIH_00025188_000,nih,normal,NIH_25188,60.0,F,PA,No Finding,brutos/nih/images/00025188_000.png,False,imagem ausente
+NIH_00025211_000,nih,normal,NIH_25211,36.0,F,PA,No Finding,brutos/nih/images/00025211_000.png,False,imagem ausente
+NIH_00025279_000,nih,normal,NIH_25279,55.0,M,PA,No Finding,brutos/nih/images/00025279_000.png,False,imagem ausente
+NIH_00025303_030,nih,normal,NIH_25303,66.0,F,PA,No Finding,brutos/nih/images/00025303_030.png,False,imagem ausente
+NIH_00025340_002,nih,normal,NIH_25340,73.0,F,PA,No Finding,brutos/nih/images/00025340_002.png,False,imagem ausente
+NIH_00025355_000,nih,normal,NIH_25355,51.0,M,PA,No Finding,brutos/nih/images/00025355_000.png,False,imagem ausente
+NIH_00025365_000,nih,normal,NIH_25365,35.0,M,PA,No Finding,brutos/nih/images/00025365_000.png,False,imagem ausente
+NIH_00025383_001,nih,pneumonia,NIH_25383,45.0,M,PA,Pneumonia,brutos/nih/images/00025383_001.png,False,imagem ausente
+NIH_00025383_002,nih,pneumonia,NIH_25383,45.0,M,PA,Pneumonia,brutos/nih/images/00025383_002.png,False,imagem ausente
+NIH_00025421_006,nih,pneumonia,NIH_25421,62.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00025421_006.png,False,imagem ausente
+NIH_00025444_019,nih,pneumonia,NIH_25444,21.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00025444_019.png,False,imagem ausente
+NIH_00025489_000,nih,pneumonia,NIH_25489,34.0,F,PA,Effusion|Mass|Pneumonia,brutos/nih/images/00025489_000.png,False,imagem ausente
+NIH_00025543_019,nih,pneumonia,NIH_25543,42.0,F,PA,Atelectasis|Effusion|Pneumonia,brutos/nih/images/00025543_019.png,False,imagem ausente
+NIH_00025570_001,nih,normal,NIH_25570,72.0,M,PA,No Finding,brutos/nih/images/00025570_001.png,False,imagem ausente
+NIH_00025583_005,nih,pneumonia,NIH_25583,48.0,M,PA,Pneumonia,brutos/nih/images/00025583_005.png,False,imagem ausente
+NIH_00025602_002,nih,normal,NIH_25602,25.0,M,PA,No Finding,brutos/nih/images/00025602_002.png,False,imagem ausente
+NIH_00025616_000,nih,normal,NIH_25616,46.0,F,PA,No Finding,brutos/nih/images/00025616_000.png,False,imagem ausente
+NIH_00025621_011,nih,pneumonia,NIH_25621,65.0,F,PA,Atelectasis|Effusion|Infiltration|Pneumonia,brutos/nih/images/00025621_011.png,False,imagem ausente
+NIH_00025624_000,nih,pneumonia,NIH_25624,22.0,M,PA,Pneumonia,brutos/nih/images/00025624_000.png,False,imagem ausente
+NIH_00025637_002,nih,normal,NIH_25637,27.0,F,PA,No Finding,brutos/nih/images/00025637_002.png,False,imagem ausente
+NIH_00025640_005,nih,normal,NIH_25640,43.0,F,PA,No Finding,brutos/nih/images/00025640_005.png,False,imagem ausente
+NIH_00025680_011,nih,normal,NIH_25680,23.0,M,PA,No Finding,brutos/nih/images/00025680_011.png,False,imagem ausente
+NIH_00025769_024,nih,pneumonia,NIH_25769,59.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00025769_024.png,False,imagem ausente
+NIH_00025776_000,nih,pneumonia,NIH_25776,37.0,F,PA,Pneumonia,brutos/nih/images/00025776_000.png,False,imagem ausente
+NIH_00025806_005,nih,pneumonia,NIH_25806,50.0,M,PA,Pneumonia,brutos/nih/images/00025806_005.png,False,imagem ausente
+NIH_00025831_000,nih,normal,NIH_25831,51.0,M,PA,No Finding,brutos/nih/images/00025831_000.png,False,imagem ausente
+NIH_00025832_003,nih,normal,NIH_25832,18.0,F,PA,No Finding,brutos/nih/images/00025832_003.png,False,imagem ausente
+NIH_00025855_000,nih,normal,NIH_25855,27.0,F,PA,No Finding,brutos/nih/images/00025855_000.png,False,imagem ausente
+NIH_00025916_000,nih,normal,NIH_25916,43.0,M,PA,No Finding,brutos/nih/images/00025916_000.png,False,imagem ausente
+NIH_00025919_000,nih,normal,NIH_25919,53.0,F,PA,No Finding,brutos/nih/images/00025919_000.png,False,imagem ausente
+NIH_00025924_017,nih,normal,NIH_25924,24.0,M,PA,No Finding,brutos/nih/images/00025924_017.png,False,imagem ausente
+NIH_00025962_000,nih,pneumonia,NIH_25962,18.0,F,PA,Consolidation|Infiltration|Pneumonia,brutos/nih/images/00025962_000.png,False,imagem ausente
+NIH_00025998_001,nih,normal,NIH_25998,48.0,M,PA,No Finding,brutos/nih/images/00025998_001.png,False,imagem ausente
+NIH_00026013_003,nih,normal,NIH_26013,53.0,F,PA,No Finding,brutos/nih/images/00026013_003.png,False,imagem ausente
+NIH_00026027_007,nih,pneumonia,NIH_26027,22.0,M,PA,Atelectasis|Effusion|Pneumonia,brutos/nih/images/00026027_007.png,False,imagem ausente
+NIH_00026040_000,nih,normal,NIH_26040,30.0,M,PA,No Finding,brutos/nih/images/00026040_000.png,False,imagem ausente
+NIH_00026085_000,nih,pneumonia,NIH_26085,48.0,M,PA,Pneumonia,brutos/nih/images/00026085_000.png,False,imagem ausente
+NIH_00026112_001,nih,pneumonia,NIH_26112,56.0,M,PA,Pneumonia,brutos/nih/images/00026112_001.png,False,imagem ausente
+NIH_00026138_000,nih,normal,NIH_26138,41.0,M,PA,No Finding,brutos/nih/images/00026138_000.png,False,imagem ausente
+NIH_00026166_003,nih,normal,NIH_26166,42.0,F,PA,No Finding,brutos/nih/images/00026166_003.png,False,imagem ausente
+NIH_00026185_003,nih,normal,NIH_26185,43.0,M,PA,No Finding,brutos/nih/images/00026185_003.png,False,imagem ausente
+NIH_00026196_001,nih,pneumonia,NIH_26196,64.0,M,PA,Mass|Nodule|Pneumonia,brutos/nih/images/00026196_001.png,False,imagem ausente
+NIH_00026263_010,nih,pneumonia,NIH_26263,38.0,M,PA,Atelectasis|Consolidation|Effusion|Pneumonia,brutos/nih/images/00026263_010.png,False,imagem ausente
+NIH_00026267_000,nih,normal,NIH_26267,60.0,M,PA,No Finding,brutos/nih/images/00026267_000.png,False,imagem ausente
+NIH_00026269_000,nih,normal,NIH_26269,59.0,F,PA,No Finding,brutos/nih/images/00026269_000.png,False,imagem ausente
+NIH_00026293_000,nih,normal,NIH_26293,46.0,F,PA,No Finding,brutos/nih/images/00026293_000.png,False,imagem ausente
+NIH_00026389_002,nih,pneumonia,NIH_26389,75.0,M,PA,Pneumonia,brutos/nih/images/00026389_002.png,False,imagem ausente
+NIH_00026440_000,nih,normal,NIH_26440,28.0,M,PA,No Finding,brutos/nih/images/00026440_000.png,False,imagem ausente
+NIH_00026451_055,nih,pneumonia,NIH_26451,52.0,M,PA,Edema|Effusion|Pleural_Thickening|Pneumonia|Pneumothorax,brutos/nih/images/00026451_055.png,False,imagem ausente
+NIH_00026525_001,nih,pneumonia,NIH_26525,23.0,F,PA,Effusion|Infiltration|Nodule|Pneumonia,brutos/nih/images/00026525_001.png,False,imagem ausente
+NIH_00026561_002,nih,normal,NIH_26561,77.0,F,PA,No Finding,brutos/nih/images/00026561_002.png,False,imagem ausente
+NIH_00026580_000,nih,pneumonia,NIH_26580,21.0,F,PA,Pneumonia,brutos/nih/images/00026580_000.png,False,imagem ausente
+NIH_00026593_000,nih,normal,NIH_26593,34.0,M,PA,No Finding,brutos/nih/images/00026593_000.png,False,imagem ausente
+NIH_00026629_006,nih,pneumonia,NIH_26629,64.0,M,PA,Pneumonia,brutos/nih/images/00026629_006.png,False,imagem ausente
+NIH_00026715_001,nih,pneumonia,NIH_26715,51.0,M,PA,Atelectasis|Emphysema|Infiltration|Pneumonia,brutos/nih/images/00026715_001.png,False,imagem ausente
+NIH_00026757_001,nih,normal,NIH_26757,73.0,M,PA,No Finding,brutos/nih/images/00026757_001.png,False,imagem ausente
+NIH_00026801_000,nih,normal,NIH_26801,23.0,F,PA,No Finding,brutos/nih/images/00026801_000.png,False,imagem ausente
+NIH_00026835_000,nih,normal,NIH_26835,18.0,F,PA,No Finding,brutos/nih/images/00026835_000.png,False,imagem ausente
+NIH_00026875_000,nih,normal,NIH_26875,62.0,F,PA,No Finding,brutos/nih/images/00026875_000.png,False,imagem ausente
+NIH_00026892_001,nih,normal,NIH_26892,47.0,M,PA,No Finding,brutos/nih/images/00026892_001.png,False,imagem ausente
+NIH_00026918_002,nih,normal,NIH_26918,57.0,F,PA,No Finding,brutos/nih/images/00026918_002.png,False,imagem ausente
+NIH_00026938_000,nih,pneumonia,NIH_26938,84.0,M,PA,Pneumonia,brutos/nih/images/00026938_000.png,False,imagem ausente
+NIH_00026994_002,nih,pneumonia,NIH_26994,40.0,F,PA,Atelectasis|Pneumonia,brutos/nih/images/00026994_002.png,False,imagem ausente
+NIH_00027069_000,nih,normal,NIH_27069,41.0,M,PA,No Finding,brutos/nih/images/00027069_000.png,False,imagem ausente
+NIH_00027079_014,nih,normal,NIH_27079,52.0,M,PA,No Finding,brutos/nih/images/00027079_014.png,False,imagem ausente
+NIH_00027138_000,nih,normal,NIH_27138,35.0,M,PA,No Finding,brutos/nih/images/00027138_000.png,False,imagem ausente
+NIH_00027182_003,nih,pneumonia,NIH_27182,50.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00027182_003.png,False,imagem ausente
+NIH_00027225_002,nih,pneumonia,NIH_27225,29.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00027225_002.png,False,imagem ausente
+NIH_00027226_000,nih,normal,NIH_27226,56.0,M,PA,No Finding,brutos/nih/images/00027226_000.png,False,imagem ausente
+NIH_00027266_001,nih,pneumonia,NIH_27266,63.0,M,PA,Pneumonia,brutos/nih/images/00027266_001.png,False,imagem ausente
+NIH_00027320_010,nih,pneumonia,NIH_27320,52.0,M,PA,Pneumonia,brutos/nih/images/00027320_010.png,False,imagem ausente
+NIH_00027320_012,nih,pneumonia,NIH_27320,52.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00027320_012.png,False,imagem ausente
+NIH_00027320_013,nih,pneumonia,NIH_27320,52.0,M,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00027320_013.png,False,imagem ausente
+NIH_00027322_001,nih,pneumonia,NIH_27322,45.0,M,PA,Atelectasis|Infiltration|Pneumonia,brutos/nih/images/00027322_001.png,False,imagem ausente
+NIH_00027328_000,nih,normal,NIH_27328,34.0,F,PA,No Finding,brutos/nih/images/00027328_000.png,False,imagem ausente
+NIH_00027333_001,nih,normal,NIH_27333,54.0,F,PA,No Finding,brutos/nih/images/00027333_001.png,False,imagem ausente
+NIH_00027414_000,nih,normal,NIH_27414,46.0,F,PA,No Finding,brutos/nih/images/00027414_000.png,False,imagem ausente
+NIH_00027449_000,nih,normal,NIH_27449,61.0,F,PA,No Finding,brutos/nih/images/00027449_000.png,False,imagem ausente
+NIH_00027479_019,nih,pneumonia,NIH_27479,51.0,M,PA,Pleural_Thickening|Pneumonia,brutos/nih/images/00027479_019.png,False,imagem ausente
+NIH_00027487_000,nih,normal,NIH_27487,42.0,M,PA,No Finding,brutos/nih/images/00027487_000.png,False,imagem ausente
+NIH_00027508_001,nih,pneumonia,NIH_27508,32.0,F,PA,Pneumonia,brutos/nih/images/00027508_001.png,False,imagem ausente
+NIH_00027535_001,nih,normal,NIH_27535,54.0,M,PA,No Finding,brutos/nih/images/00027535_001.png,False,imagem ausente
+NIH_00027539_001,nih,pneumonia,NIH_27539,34.0,F,PA,Pneumonia,brutos/nih/images/00027539_001.png,False,imagem ausente
+NIH_00027545_000,nih,pneumonia,NIH_27545,57.0,F,PA,Cardiomegaly|Effusion|Pneumonia,brutos/nih/images/00027545_000.png,False,imagem ausente
+NIH_00027648_005,nih,pneumonia,NIH_27648,50.0,M,PA,Pneumonia,brutos/nih/images/00027648_005.png,False,imagem ausente
+NIH_00027706_010,nih,pneumonia,NIH_27706,35.0,M,PA,Cardiomegaly|Infiltration|Pneumonia,brutos/nih/images/00027706_010.png,False,imagem ausente
+NIH_00027758_004,nih,pneumonia,NIH_27758,49.0,F,PA,Atelectasis|Effusion|Pneumonia,brutos/nih/images/00027758_004.png,False,imagem ausente
+NIH_00027775_004,nih,pneumonia,NIH_27775,59.0,F,PA,Pneumonia,brutos/nih/images/00027775_004.png,False,imagem ausente
+NIH_00027775_005,nih,pneumonia,NIH_27775,59.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00027775_005.png,False,imagem ausente
+NIH_00027784_005,nih,pneumonia,NIH_27784,39.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00027784_005.png,False,imagem ausente
+NIH_00027784_007,nih,pneumonia,NIH_27784,39.0,M,PA,Pneumonia,brutos/nih/images/00027784_007.png,False,imagem ausente
+NIH_00027841_000,nih,normal,NIH_27841,32.0,M,PA,No Finding,brutos/nih/images/00027841_000.png,False,imagem ausente
+NIH_00027927_022,nih,normal,NIH_27927,58.0,F,PA,No Finding,brutos/nih/images/00027927_022.png,False,imagem ausente
+NIH_00027949_000,nih,normal,NIH_27949,44.0,M,PA,No Finding,brutos/nih/images/00027949_000.png,False,imagem ausente
+NIH_00028088_003,nih,pneumonia,NIH_28088,38.0,M,PA,Atelectasis|Effusion|Pneumonia,brutos/nih/images/00028088_003.png,False,imagem ausente
+NIH_00028097_009,nih,normal,NIH_28097,63.0,F,PA,No Finding,brutos/nih/images/00028097_009.png,False,imagem ausente
+NIH_00028106_000,nih,pneumonia,NIH_28106,28.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00028106_000.png,False,imagem ausente
+NIH_00028115_001,nih,normal,NIH_28115,40.0,F,PA,No Finding,brutos/nih/images/00028115_001.png,False,imagem ausente
+NIH_00028208_005,nih,pneumonia,NIH_28208,64.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00028208_005.png,False,imagem ausente
+NIH_00028234_000,nih,normal,NIH_28234,36.0,M,PA,No Finding,brutos/nih/images/00028234_000.png,False,imagem ausente
+NIH_00028244_000,nih,normal,NIH_28244,36.0,M,PA,No Finding,brutos/nih/images/00028244_000.png,False,imagem ausente
+NIH_00028523_001,nih,normal,NIH_28523,58.0,M,PA,No Finding,brutos/nih/images/00028523_001.png,False,imagem ausente
+NIH_00028552_004,nih,pneumonia,NIH_28552,67.0,M,PA,Consolidation|Pneumonia,brutos/nih/images/00028552_004.png,False,imagem ausente
+NIH_00028567_000,nih,normal,NIH_28567,37.0,F,PA,No Finding,brutos/nih/images/00028567_000.png,False,imagem ausente
+NIH_00028573_000,nih,normal,NIH_28573,25.0,M,PA,No Finding,brutos/nih/images/00028573_000.png,False,imagem ausente
+NIH_00028621_000,nih,normal,NIH_28621,71.0,F,PA,No Finding,brutos/nih/images/00028621_000.png,False,imagem ausente
+NIH_00028644_000,nih,pneumonia,NIH_28644,38.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00028644_000.png,False,imagem ausente
+NIH_00028683_000,nih,normal,NIH_28683,27.0,F,PA,No Finding,brutos/nih/images/00028683_000.png,False,imagem ausente
+NIH_00028715_000,nih,normal,NIH_28715,47.0,F,PA,No Finding,brutos/nih/images/00028715_000.png,False,imagem ausente
+NIH_00028724_000,nih,pneumonia,NIH_28724,55.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00028724_000.png,False,imagem ausente
+NIH_00028725_005,nih,pneumonia,NIH_28725,31.0,F,PA,Effusion|Pneumonia,brutos/nih/images/00028725_005.png,False,imagem ausente
+NIH_00028752_000,nih,pneumonia,NIH_28752,45.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00028752_000.png,False,imagem ausente
+NIH_00028764_002,nih,pneumonia,NIH_28764,24.0,F,PA,Pneumonia,brutos/nih/images/00028764_002.png,False,imagem ausente
+NIH_00028764_003,nih,pneumonia,NIH_28764,24.0,F,PA,Infiltration|Pneumonia,brutos/nih/images/00028764_003.png,False,imagem ausente
+NIH_00028764_004,nih,pneumonia,NIH_28764,24.0,F,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00028764_004.png,False,imagem ausente
+NIH_00028773_000,nih,normal,NIH_28773,24.0,M,PA,No Finding,brutos/nih/images/00028773_000.png,False,imagem ausente
+NIH_00028825_000,nih,normal,NIH_28825,21.0,F,PA,No Finding,brutos/nih/images/00028825_000.png,False,imagem ausente
+NIH_00028849_001,nih,normal,NIH_28849,55.0,F,PA,No Finding,brutos/nih/images/00028849_001.png,False,imagem ausente
+NIH_00028897_011,nih,pneumonia,NIH_28897,53.0,F,PA,Atelectasis|Effusion|Infiltration|Pneumonia|Pneumothorax,brutos/nih/images/00028897_011.png,False,imagem ausente
+NIH_00028921_001,nih,normal,NIH_28921,20.0,F,PA,No Finding,brutos/nih/images/00028921_001.png,False,imagem ausente
+NIH_00028940_005,nih,pneumonia,NIH_28940,63.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00028940_005.png,False,imagem ausente
+NIH_00028974_001,nih,pneumonia,NIH_28974,76.0,M,PA,Effusion|Pneumonia,brutos/nih/images/00028974_001.png,False,imagem ausente
+NIH_00029032_000,nih,normal,NIH_29032,54.0,M,PA,No Finding,brutos/nih/images/00029032_000.png,False,imagem ausente
+NIH_00029035_006,nih,normal,NIH_29035,18.0,M,PA,No Finding,brutos/nih/images/00029035_006.png,False,imagem ausente
+NIH_00029105_020,nih,normal,NIH_29105,55.0,F,PA,No Finding,brutos/nih/images/00029105_020.png,False,imagem ausente
+NIH_00029125_001,nih,normal,NIH_29125,43.0,F,PA,No Finding,brutos/nih/images/00029125_001.png,False,imagem ausente
+NIH_00029129_006,nih,normal,NIH_29129,60.0,M,PA,No Finding,brutos/nih/images/00029129_006.png,False,imagem ausente
+NIH_00029154_000,nih,pneumonia,NIH_29154,20.0,M,PA,Nodule|Pneumonia,brutos/nih/images/00029154_000.png,False,imagem ausente
+NIH_00029169_000,nih,normal,NIH_29169,72.0,M,PA,No Finding,brutos/nih/images/00029169_000.png,False,imagem ausente
+NIH_00029233_000,nih,normal,NIH_29233,54.0,M,PA,No Finding,brutos/nih/images/00029233_000.png,False,imagem ausente
+NIH_00029260_000,nih,normal,NIH_29260,57.0,F,PA,No Finding,brutos/nih/images/00029260_000.png,False,imagem ausente
+NIH_00029311_003,nih,normal,NIH_29311,29.0,M,PA,No Finding,brutos/nih/images/00029311_003.png,False,imagem ausente
+NIH_00029431_001,nih,pneumonia,NIH_29431,65.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00029431_001.png,False,imagem ausente
+NIH_00029438_000,nih,normal,NIH_29438,25.0,M,PA,No Finding,brutos/nih/images/00029438_000.png,False,imagem ausente
+NIH_00029452_000,nih,normal,NIH_29452,60.0,M,PA,No Finding,brutos/nih/images/00029452_000.png,False,imagem ausente
+NIH_00029500_000,nih,pneumonia,NIH_29500,67.0,M,PA,Effusion|Infiltration|Mass|Pleural_Thickening|Pneumonia,brutos/nih/images/00029500_000.png,False,imagem ausente
+NIH_00029521_001,nih,normal,NIH_29521,44.0,M,PA,No Finding,brutos/nih/images/00029521_001.png,False,imagem ausente
+NIH_00029532_017,nih,normal,NIH_29532,57.0,M,PA,No Finding,brutos/nih/images/00029532_017.png,False,imagem ausente
+NIH_00029544_001,nih,normal,NIH_29544,26.0,F,PA,No Finding,brutos/nih/images/00029544_001.png,False,imagem ausente
+NIH_00029628_001,nih,pneumonia,NIH_29628,35.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00029628_001.png,False,imagem ausente
+NIH_00029747_002,nih,pneumonia,NIH_29747,47.0,F,PA,Effusion|Infiltration|Pneumonia,brutos/nih/images/00029747_002.png,False,imagem ausente
+NIH_00029753_000,nih,normal,NIH_29753,50.0,F,PA,No Finding,brutos/nih/images/00029753_000.png,False,imagem ausente
+NIH_00029808_003,nih,pneumonia,NIH_29808,32.0,M,PA,Cardiomegaly|Consolidation|Effusion|Pneumonia,brutos/nih/images/00029808_003.png,False,imagem ausente
+NIH_00029821_019,nih,normal,NIH_29821,59.0,F,PA,No Finding,brutos/nih/images/00029821_019.png,False,imagem ausente
+NIH_00029869_011,nih,normal,NIH_29869,45.0,F,PA,No Finding,brutos/nih/images/00029869_011.png,False,imagem ausente
+NIH_00029889_000,nih,pneumonia,NIH_29889,44.0,F,PA,Pneumonia,brutos/nih/images/00029889_000.png,False,imagem ausente
+NIH_00029890_001,nih,normal,NIH_29890,46.0,F,PA,No Finding,brutos/nih/images/00029890_001.png,False,imagem ausente
+NIH_00029905_000,nih,normal,NIH_29905,63.0,F,PA,No Finding,brutos/nih/images/00029905_000.png,False,imagem ausente
+NIH_00029972_001,nih,normal,NIH_29972,44.0,M,PA,No Finding,brutos/nih/images/00029972_001.png,False,imagem ausente
+NIH_00030008_000,nih,normal,NIH_30008,54.0,F,PA,No Finding,brutos/nih/images/00030008_000.png,False,imagem ausente
+NIH_00030014_000,nih,normal,NIH_30014,32.0,F,PA,No Finding,brutos/nih/images/00030014_000.png,False,imagem ausente
+NIH_00030077_004,nih,normal,NIH_30077,65.0,F,PA,No Finding,brutos/nih/images/00030077_004.png,False,imagem ausente
+NIH_00030090_000,nih,normal,NIH_30090,44.0,M,PA,No Finding,brutos/nih/images/00030090_000.png,False,imagem ausente
+NIH_00030154_000,nih,normal,NIH_30154,38.0,F,PA,No Finding,brutos/nih/images/00030154_000.png,False,imagem ausente
+NIH_00030249_001,nih,pneumonia,NIH_30249,64.0,M,PA,Infiltration|Pneumonia,brutos/nih/images/00030249_001.png,False,imagem ausente
+NIH_00030345_000,nih,normal,NIH_30345,36.0,M,PA,No Finding,brutos/nih/images/00030345_000.png,False,imagem ausente
+NIH_00030364_000,nih,normal,NIH_30364,41.0,F,PA,No Finding,brutos/nih/images/00030364_000.png,False,imagem ausente
+NIH_00030366_000,nih,normal,NIH_30366,36.0,F,PA,No Finding,brutos/nih/images/00030366_000.png,False,imagem ausente
+NIH_00030398_000,nih,pneumonia,NIH_30398,55.0,F,PA,Consolidation|Effusion|Pneumonia,brutos/nih/images/00030398_000.png,False,imagem ausente
+NIH_00030553_000,nih,normal,NIH_30553,74.0,M,PA,No Finding,brutos/nih/images/00030553_000.png,False,imagem ausente
+NIH_00030678_000,nih,normal,NIH_30678,42.0,M,PA,No Finding,brutos/nih/images/00030678_000.png,False,imagem ausente
+NIH_00030801_001,nih,pneumonia,NIH_30801,38.0,M,PA,Mass|Pneumonia,brutos/nih/images/00030801_001.png,False,imagem ausente
