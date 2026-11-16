@@ -1,0 +1,25 @@
+modelo,fonte,classe_real,n,acertos,predito_normal,predito_pneumonia,predito_tuberculose,taxa_acerto
+CNN,Montgomery,normal,10,8,8,0,2,0.8
+CNN,Montgomery,tuberculose,8,6,2,0,6,0.75
+CNN,NIH ChestX-ray14,normal,23,14,14,9,0,0.609
+CNN,NIH ChestX-ray14,pneumonia,24,10,13,10,1,0.417
+CNN,Shenzhen,normal,45,41,41,0,4,0.911
+CNN,Shenzhen,tuberculose,50,45,5,0,45,0.9
+KNN,Montgomery,normal,10,5,5,0,5,0.5
+KNN,Montgomery,tuberculose,8,5,3,0,5,0.625
+KNN,NIH ChestX-ray14,normal,23,14,14,6,3,0.609
+KNN,NIH ChestX-ray14,pneumonia,24,13,10,13,1,0.542
+KNN,Shenzhen,normal,45,38,38,2,5,0.844
+KNN,Shenzhen,tuberculose,50,41,7,2,41,0.82
+RF,Montgomery,normal,10,4,4,0,6,0.4
+RF,Montgomery,tuberculose,8,4,4,0,4,0.5
+RF,NIH ChestX-ray14,normal,23,11,11,9,3,0.478
+RF,NIH ChestX-ray14,pneumonia,24,14,9,14,1,0.583
+RF,Shenzhen,normal,45,37,37,2,6,0.822
+RF,Shenzhen,tuberculose,50,43,6,1,43,0.86
+SVM,Montgomery,normal,10,2,2,0,8,0.2
+SVM,Montgomery,tuberculose,8,6,2,0,6,0.75
+SVM,NIH ChestX-ray14,normal,23,1,1,20,2,0.043
+SVM,NIH ChestX-ray14,pneumonia,24,23,0,23,1,0.958
+SVM,Shenzhen,normal,45,29,29,6,10,0.644
+SVM,Shenzhen,tuberculose,50,44,5,1,44,0.88

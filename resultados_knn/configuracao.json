@@ -1,0 +1,8 @@
+{
+  "classificador": "KNN (k=5)",
+  "versao": "realcado",
+  "descritores": "GLCM",
+  "f1_macro_validacao": 0.6127,
+  "f1_macro_teste": 0.6894,
+  "acuracia_teste": 0.725
+}

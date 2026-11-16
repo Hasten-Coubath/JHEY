@@ -1,0 +1,8 @@
+{
+  "classificador": "SVM (RBF)",
+  "versao": "realcado",
+  "descritores": "LBP+GLCM",
+  "f1_macro_validacao": 0.6869,
+  "f1_macro_teste": 0.6479,
+  "acuracia_teste": 0.6562
+}

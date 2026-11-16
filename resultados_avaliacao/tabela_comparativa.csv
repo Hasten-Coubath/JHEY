@@ -1,0 +1,5 @@
+modelo,acuracia,f1_macro,precisao_macro,sensibilidade_macro,precisao_normal,sensibilidade_normal,especificidade_normal,f1_normal,precisao_pneumonia,sensibilidade_pneumonia,especificidade_pneumonia,f1_pneumonia,precisao_tuberculose,sensibilidade_tuberculose,especificidade_tuberculose,f1_tuberculose,triagem_sensibilidade_doenca,triagem_especificidade,auc_roc_ovr_macro
+CNN,0.775,0.709,0.7216,0.7012,0.759,0.8077,0.7561,0.7826,0.5263,0.4167,0.9338,0.4651,0.8793,0.8793,0.9314,0.8793,0.7561,0.8077,0.9117
+KNN,0.725,0.6894,0.6907,0.6885,0.7403,0.7308,0.7561,0.7355,0.5652,0.5417,0.9265,0.5532,0.7667,0.7931,0.8627,0.7797,0.7561,0.7308,0.8587
+RF,0.7062,0.6783,0.6723,0.6868,0.7324,0.6667,0.7683,0.698,0.5385,0.5833,0.9118,0.56,0.746,0.8103,0.8431,0.7769,0.7683,0.6667,0.8795
+SVM,0.6562,0.6479,0.6616,0.7436,0.8205,0.4103,0.9146,0.547,0.46,0.9583,0.8015,0.6216,0.7042,0.8621,0.7941,0.7752,0.9146,0.4103,0.8772

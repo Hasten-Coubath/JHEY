@@ -1,0 +1,5 @@
+modelo,mesma_base_acuracia_balanceada,mesma_base_sensibilidade_tb,mesma_base_especificidade,mesma_base_n,base_nova_acuracia_balanceada,base_nova_sensibilidade_tb,base_nova_especificidade,base_nova_n
+SVM (RBF) (LBP+GLCM),0.862,0.88,0.844,95,0.45,0.87,0.03,121
+Random Forest (GLCM),0.84,0.88,0.8,95,0.584,0.481,0.687,121
+KNN (k=5) (GLCM),0.833,0.8,0.867,95,0.482,0.204,0.761,121
+ResNet18 (ImageNet) + reg. logística,0.884,0.88,0.889,95,0.571,0.889,0.254,121

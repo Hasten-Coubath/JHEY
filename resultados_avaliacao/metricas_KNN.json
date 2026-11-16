@@ -1,0 +1,49 @@
+{
+  "acuracia": 0.725,
+  "sensibilidade_normal": 0.7307692307692307,
+  "precisao_normal": 0.7402597402597403,
+  "especificidade_normal": 0.7560975609756098,
+  "f1_normal": 0.7354838709677418,
+  "sensibilidade_pneumonia": 0.5416666666666666,
+  "precisao_pneumonia": 0.5652173913043478,
+  "especificidade_pneumonia": 0.9264705882352942,
+  "f1_pneumonia": 0.5531914893617021,
+  "sensibilidade_tuberculose": 0.7931034482758621,
+  "precisao_tuberculose": 0.7666666666666667,
+  "especificidade_tuberculose": 0.8627450980392157,
+  "f1_tuberculose": 0.7796610169491527,
+  "f1_macro": 0.6894454590928656,
+  "sensibilidade_macro": 0.6885131152372531,
+  "precisao_macro": 0.6907145994102516,
+  "triagem_sensibilidade_doenca": 0.7560975609756098,
+  "triagem_especificidade": 0.7307692307692307,
+  "auc_roc_ovr_macro": 0.858655026822249,
+  "n_imagens": 160,
+  "suporte": {
+    "normal": 78,
+    "pneumonia": 24,
+    "tuberculose": 58
+  },
+  "ic95": {
+    "acuracia": [
+      0.65625,
+      0.79375
+    ],
+    "f1_macro": [
+      0.6014603486927764,
+      0.7650929915963948
+    ],
+    "sensibilidade_pneumonia": [
+      0.3181818181818182,
+      0.7391706924315617
+    ],
+    "sensibilidade_tuberculose": [
+      0.6774193548387096,
+      0.8888888888888888
+    ],
+    "triagem_sensibilidade_doenca": [
+      0.662157403882756,
+      0.8452609890109889
+    ]
+  }
+}

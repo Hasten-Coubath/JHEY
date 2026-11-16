@@ -1,0 +1,5 @@
+{
+  "tarefa": "prever a base de origem (MC, SZ, NIH) com LBP+GLCM realcado",
+  "acuracia_teste": 0.925,
+  "acaso_classe_majoritaria": 0.5938
+}

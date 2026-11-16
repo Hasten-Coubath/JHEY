@@ -1,0 +1,8 @@
+{
+  "classificador": "Random Forest",
+  "versao": "realcado",
+  "descritores": "GLCM",
+  "f1_macro_validacao": 0.6619,
+  "f1_macro_teste": 0.6783,
+  "acuracia_teste": 0.7063
+}
