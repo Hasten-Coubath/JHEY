@@ -1,0 +1,14 @@
+# Tema do protótipo: paleta clínica sóbria (azul-petróleo sobre cinza claro), sem o menu de deploy do Streamlit.
+[theme]
+base = "light"
+primaryColor = "#0E7490"
+backgroundColor = "#F3F5F8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1E293B"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

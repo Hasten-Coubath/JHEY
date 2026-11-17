@@ -16,7 +16,7 @@ pesaram na decisão. Ferramenta acadêmica: **não substitui o laudo do radiolog
 | `cnn_integrante3.py` | 3 | ResNet18 com transferência de aprendizado, treino e Grad-CAM |
 | `avaliacao_integrante4.py` | 4 | Métricas, matrizes de confusão, comparação, IC95%, McNemar, erros por base |
 | `integracao.py` | 4 | Formato comum de predições, contrato do modelo clássico, pré-processamento |
-| `app_prototipo.py` | 4 | Protótipo Streamlit que junta CNN + Grad-CAM + modelo clássico |
+| `app_prototipo.py` | 4 | Protótipo Streamlit que junta CNN + Grad-CAM + modelo clássico + contorno pulmonar (tema em `.streamlit/config.toml`) |
 | `generalizacao_entre_bases.py` | 4 | Teste em base nova: treina em Shenzhen, testa em Montgomery (tuberculose x normal) |
 | `capturas/` | 4 | Capturas de tela do protótipo rodando |
 
