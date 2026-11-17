@@ -1,0 +1,7 @@
+{
+  "tarefa": "prever a base de origem (MC, SZ, NIH) com LBP+GLCM realcado, só na região pulmonar",
+  "acuracia_teste_zerar": 0.8375,
+  "acuracia_teste_recortar": 0.8063,
+  "acuracia_teste_sem_segmentacao": 0.925,
+  "acaso_classe_majoritaria": 0.5938
+}

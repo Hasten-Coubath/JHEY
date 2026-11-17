@@ -4,3 +4,4 @@ __pycache__/
 venv/
 segunda_leitura_processado.zip
 caracteristicas_cache.npz
+caracteristicas_seg_cache.npz

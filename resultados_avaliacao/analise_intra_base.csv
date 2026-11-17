@@ -1,13 +1,22 @@
 modelo,fonte,doenca,n_normal,n_doente,sensibilidade,especificidade,acuracia_balanceada
-CNN,Montgomery,tuberculose,10,8,0.75,0.8,0.775
-CNN,NIH ChestX-ray14,pneumonia,23,24,0.417,0.609,0.513
-CNN,Shenzhen,tuberculose,45,50,0.9,0.911,0.906
-KNN,Montgomery,tuberculose,10,8,0.625,0.5,0.562
-KNN,NIH ChestX-ray14,pneumonia,23,24,0.542,0.609,0.575
-KNN,Shenzhen,tuberculose,45,50,0.82,0.844,0.832
-RF,Montgomery,tuberculose,10,8,0.5,0.4,0.45
-RF,NIH ChestX-ray14,pneumonia,23,24,0.583,0.478,0.531
-RF,Shenzhen,tuberculose,45,50,0.86,0.822,0.841
-SVM,Montgomery,tuberculose,10,8,0.75,0.2,0.475
-SVM,NIH ChestX-ray14,pneumonia,23,24,0.958,0.043,0.501
-SVM,Shenzhen,tuberculose,45,50,0.88,0.644,0.762
+cnn_realcado,Montgomery,tuberculose,10,8,0.75,0.8,0.775
+cnn_realcado,NIH ChestX-ray14,pneumonia,23,24,0.417,0.609,0.513
+cnn_realcado,Shenzhen,tuberculose,45,50,0.9,0.911,0.906
+knn,Montgomery,tuberculose,10,8,0.625,0.5,0.562
+knn,NIH ChestX-ray14,pneumonia,23,24,0.542,0.609,0.575
+knn,Shenzhen,tuberculose,45,50,0.82,0.844,0.832
+knn_seg,Montgomery,tuberculose,10,8,0.375,0.6,0.487
+knn_seg,NIH ChestX-ray14,pneumonia,23,24,0.375,0.652,0.514
+knn_seg,Shenzhen,tuberculose,45,50,0.78,0.822,0.801
+rf,Montgomery,tuberculose,10,8,0.5,0.4,0.45
+rf,NIH ChestX-ray14,pneumonia,23,24,0.583,0.478,0.531
+rf,Shenzhen,tuberculose,45,50,0.86,0.822,0.841
+rf_seg,Montgomery,tuberculose,10,8,0.375,0.5,0.438
+rf_seg,NIH ChestX-ray14,pneumonia,23,24,0.5,0.478,0.489
+rf_seg,Shenzhen,tuberculose,45,50,0.8,0.8,0.8
+svm,Montgomery,tuberculose,10,8,0.75,0.2,0.475
+svm,NIH ChestX-ray14,pneumonia,23,24,0.958,0.043,0.501
+svm,Shenzhen,tuberculose,45,50,0.88,0.644,0.762
+svm_seg,Montgomery,tuberculose,10,8,0.125,0.4,0.263
+svm_seg,NIH ChestX-ray14,pneumonia,23,24,0.917,0.174,0.545
+svm_seg,Shenzhen,tuberculose,45,50,0.84,0.8,0.82

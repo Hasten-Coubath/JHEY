@@ -1,0 +1,12 @@
+{
+  "classificador": "SVM (RBF)",
+  "segmentacao": "segmentacao_pulmonar.segmentar_pulmao (máscara da versão basico)",
+  "modo": "recortar",
+  "versao": "basico",
+  "descritores": "GLCM",
+  "f1_macro_validacao": 0.6323,
+  "acuracia_validacao": 0.6474,
+  "f1_macro_teste": 0.6709,
+  "acuracia_teste": 0.6813,
+  "n_teste": 160
+}

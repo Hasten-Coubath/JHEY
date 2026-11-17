@@ -1,25 +1,43 @@
 modelo,fonte,classe_real,n,acertos,predito_normal,predito_pneumonia,predito_tuberculose,taxa_acerto
-CNN,Montgomery,normal,10,8,8,0,2,0.8
-CNN,Montgomery,tuberculose,8,6,2,0,6,0.75
-CNN,NIH ChestX-ray14,normal,23,14,14,9,0,0.609
-CNN,NIH ChestX-ray14,pneumonia,24,10,13,10,1,0.417
-CNN,Shenzhen,normal,45,41,41,0,4,0.911
-CNN,Shenzhen,tuberculose,50,45,5,0,45,0.9
-KNN,Montgomery,normal,10,5,5,0,5,0.5
-KNN,Montgomery,tuberculose,8,5,3,0,5,0.625
-KNN,NIH ChestX-ray14,normal,23,14,14,6,3,0.609
-KNN,NIH ChestX-ray14,pneumonia,24,13,10,13,1,0.542
-KNN,Shenzhen,normal,45,38,38,2,5,0.844
-KNN,Shenzhen,tuberculose,50,41,7,2,41,0.82
-RF,Montgomery,normal,10,4,4,0,6,0.4
-RF,Montgomery,tuberculose,8,4,4,0,4,0.5
-RF,NIH ChestX-ray14,normal,23,11,11,9,3,0.478
-RF,NIH ChestX-ray14,pneumonia,24,14,9,14,1,0.583
-RF,Shenzhen,normal,45,37,37,2,6,0.822
-RF,Shenzhen,tuberculose,50,43,6,1,43,0.86
-SVM,Montgomery,normal,10,2,2,0,8,0.2
-SVM,Montgomery,tuberculose,8,6,2,0,6,0.75
-SVM,NIH ChestX-ray14,normal,23,1,1,20,2,0.043
-SVM,NIH ChestX-ray14,pneumonia,24,23,0,23,1,0.958
-SVM,Shenzhen,normal,45,29,29,6,10,0.644
-SVM,Shenzhen,tuberculose,50,44,5,1,44,0.88
+cnn_realcado,Montgomery,normal,10,8,8,0,2,0.8
+cnn_realcado,Montgomery,tuberculose,8,6,2,0,6,0.75
+cnn_realcado,NIH ChestX-ray14,normal,23,14,14,9,0,0.609
+cnn_realcado,NIH ChestX-ray14,pneumonia,24,10,13,10,1,0.417
+cnn_realcado,Shenzhen,normal,45,41,41,0,4,0.911
+cnn_realcado,Shenzhen,tuberculose,50,45,5,0,45,0.9
+knn,Montgomery,normal,10,5,5,0,5,0.5
+knn,Montgomery,tuberculose,8,5,3,0,5,0.625
+knn,NIH ChestX-ray14,normal,23,14,14,6,3,0.609
+knn,NIH ChestX-ray14,pneumonia,24,13,10,13,1,0.542
+knn,Shenzhen,normal,45,38,38,2,5,0.844
+knn,Shenzhen,tuberculose,50,41,7,2,41,0.82
+knn_seg,Montgomery,normal,10,6,6,1,3,0.6
+knn_seg,Montgomery,tuberculose,8,3,5,0,3,0.375
+knn_seg,NIH ChestX-ray14,normal,23,15,15,7,1,0.652
+knn_seg,NIH ChestX-ray14,pneumonia,24,9,14,9,1,0.375
+knn_seg,Shenzhen,normal,45,37,37,0,8,0.822
+knn_seg,Shenzhen,tuberculose,50,39,11,0,39,0.78
+rf,Montgomery,normal,10,4,4,0,6,0.4
+rf,Montgomery,tuberculose,8,4,4,0,4,0.5
+rf,NIH ChestX-ray14,normal,23,11,11,9,3,0.478
+rf,NIH ChestX-ray14,pneumonia,24,14,9,14,1,0.583
+rf,Shenzhen,normal,45,37,37,2,6,0.822
+rf,Shenzhen,tuberculose,50,43,6,1,43,0.86
+rf_seg,Montgomery,normal,10,5,5,2,3,0.5
+rf_seg,Montgomery,tuberculose,8,3,2,3,3,0.375
+rf_seg,NIH ChestX-ray14,normal,23,11,11,12,0,0.478
+rf_seg,NIH ChestX-ray14,pneumonia,24,12,12,12,0,0.5
+rf_seg,Shenzhen,normal,45,36,36,0,9,0.8
+rf_seg,Shenzhen,tuberculose,50,40,10,0,40,0.8
+svm,Montgomery,normal,10,2,2,0,8,0.2
+svm,Montgomery,tuberculose,8,6,2,0,6,0.75
+svm,NIH ChestX-ray14,normal,23,1,1,20,2,0.043
+svm,NIH ChestX-ray14,pneumonia,24,23,0,23,1,0.958
+svm,Shenzhen,normal,45,29,29,6,10,0.644
+svm,Shenzhen,tuberculose,50,44,5,1,44,0.88
+svm_seg,Montgomery,normal,10,4,4,6,0,0.4
+svm_seg,Montgomery,tuberculose,8,1,0,7,1,0.125
+svm_seg,NIH ChestX-ray14,normal,23,4,4,19,0,0.174
+svm_seg,NIH ChestX-ray14,pneumonia,24,22,2,22,0,0.917
+svm_seg,Shenzhen,normal,45,36,36,0,9,0.8
+svm_seg,Shenzhen,tuberculose,50,42,8,0,42,0.84
